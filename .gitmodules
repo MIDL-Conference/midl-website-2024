@@ -1,0 +1,3 @@
+[submodule "themes/midl-website-theme"]
+	path = themes/midl-website-theme
+	url = https://github.com/MIDL-Conference/midl-website-theme.git

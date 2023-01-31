@@ -1,0 +1,33 @@
+title: "MIDL 2024"
+date: "XX—XX July 2024"
+theme: "midl-website-theme"
+primary-color: "#AA0000"
+content: "pages"
+
+www: "https://2024.midl.io"
+email: "2024@midl.io"
+twitter: "midl_conference"
+youtube: "channel/UCd87UPUTt-oqTeGi8fQw-_w"
+github: "MIDL-Conference"
+
+show_twitter_button: no
+show_twitter_feed: no
+num_tweets_in_feed: 1
+show_platform_icons: yes
+
+summary: "The Medical Imaging with Deep Learning conference will be held in Paris in 2024"
+opengraph:
+  description: "Medical Imaging with Deep Learning conference 2024"
+  image: "/images/paris.jpg"
+
+nav:
+  - title: "Home"
+    path: "/"
+    icon: "home"
+  - title: "Aims and Scope"
+    path: "/aims-and-scope.html"
+    icon: "lightbulb"
+  - title: "Organization"
+    path: "/organization.html"
+    icon: "users"
+cdn: "https://static.midl.io"
