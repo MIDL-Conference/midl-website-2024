@@ -30,4 +30,7 @@ nav:
   - title: "Organization"
     path: "/organization.html"
     icon: "users"
+  - title: "MIDL foundation"
+    path: "https://midl.io"
+    icon: "scroll"
 cdn: "https://static.midl.io"
