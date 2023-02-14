@@ -11,4 +11,4 @@ page_class: home
 
 {% from "_macros.html" import newsletter %}
 
-{{ newsletter("2023.midl.io", inline=False) }}
+{{ newsletter("2024.midl.io", inline=False) }}
