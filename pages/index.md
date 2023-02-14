@@ -4,7 +4,7 @@ page_class: home
 ---
 {% from "_macros.html" import button %}
 # Medical Imaging with Deep Learning
-## Paris, XX—XX July 2024
+## Paris, 1—3 July 2024
 <p class="primary-photo centered">
     <img alt="Paris, France" src="/images/paris.jpeg">
 </p>
