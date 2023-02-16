@@ -18,7 +18,7 @@ show_platform_icons: yes
 summary: "The Medical Imaging with Deep Learning conference will be held in Paris in 2024"
 opengraph:
   description: "Medical Imaging with Deep Learning conference 2024"
-  image: "/images/paris.jpg"
+  image: "/images/paris_small.jpg"
 
 nav:
   - title: "Home"
