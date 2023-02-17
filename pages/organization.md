@@ -6,25 +6,25 @@ title: "Organization"
 
 ## Conference chairs
 
-* [Ninon Burgos](https://ninonburgos.com/), CNRS, Paris Brain Institute (ICM), France
-* [Caroline Petitjean](https://pagesperso.litislab.fr/cpetitjean/), University de Rouen, France
-* [Maria Vakalopoulou](https://scholar.google.com/citations?user=FKUHYqMAAAAJ), CentraleSupélec, Paris, France
+* [Ninon Burgos](https://ninonburgos.com/), CNRS, Paris Brain Institute (ICM)
+* [Caroline Petitjean](https://pagesperso.litislab.fr/cpetitjean/), University de Rouen
+* [Maria Vakalopoulou](https://scholar.google.com/citations?user=FKUHYqMAAAAJ), CentraleSupélec, Paris
 
 ## Program chairs
 
-* Stergios Christodoulidis, CentraleSupelec,
+* Stergios Christodoulidis, CentraleSupelec, Paris
 * Pierrick Coupe, CNRS Bordeaux
-* Hervé Delingette, Inria
+* Hervé Delingette, Inria, Sophia-Antipolis
 * Carole Lartizien, CNRS Lyon
 * Diana Mateus, Centrale Nantes
 
 ## Scientific advisors
 
-* Nicolas Ayache, Inria
-* Olivier Colliot, CNRS
-* Nikos Paragios, Therapanacea
+* Nicolas Ayache, Inria, Sophia Antipolis
+* Olivier Colliot, CNRS, ARAMIS Lab, Paris
+* Nikos Paragios, Therapanacea, Paris
 
-## Clinical advisor
+## Clinical advisors
 
 * Fabrice Andre, University Paris-Saclay
 * Marie-Pierre Revel Dubois, Cochin Hospital Paris
