@@ -12,7 +12,7 @@ title: "Organization"
 
 ## Program chairs
 
-* Stergios Christodoulidis, CentraleSupelec, Paris
+* Stergios Christodoulidis, CentraleSupélec, Paris
 * Pierrick Coupe, CNRS Bordeaux
 * Hervé Delingette, Inria, Sophia-Antipolis
 * Carole Lartizien, CNRS Lyon
