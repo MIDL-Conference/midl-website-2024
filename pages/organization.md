@@ -20,7 +20,7 @@ title: "Organization"
 
 ## Scientific advisors
 
-* Nicolas Ayache, Inria, Sophia Antipolis
+* Nicholas Ayache, Inria, Sophia Antipolis
 * Olivier Colliot, CNRS, ARAMIS Lab, Paris
 * Nikos Paragios, Therapanacea, Paris
 
