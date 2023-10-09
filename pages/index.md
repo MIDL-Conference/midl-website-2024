@@ -11,6 +11,6 @@ page_class: home
 
 {% from "_macros.html" import newsletter %}
 
-The **current dates are tentative** and not final yet. More details will be announced at [MIDL 2023](https://2023.midl.io)
+
 
 {{ newsletter("2024.midl.io", inline=False) }}
