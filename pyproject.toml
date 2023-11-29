@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "midl-website-2023"
+name = "midl-website-2024"
 version = "1.0.0"
-description = "Website of the 2023 edition of the MIDL conference series"
+description = "Website of the 2024 edition of the MIDL conference series"
 authors = ["Nikolas Lessmann <773597+nlessmann@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
