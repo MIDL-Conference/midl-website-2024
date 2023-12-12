@@ -16,6 +16,8 @@ page_class: home
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 
+If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages](/sponsorship-packages.html).
+
 ### Full papers
 [% .deadlines %]
 * **Full paper registration deadline** 31 January 2024
