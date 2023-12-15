@@ -5,14 +5,14 @@ page_class: "sponsors"
 # Sponsors
 
 ## <span class="gold">Gold</span>
-[% . logos %]
+[% .logos %]
 [![Gleamer](/images/sponsors/gleamer.png){: width="300"}](https://www.gleamer.ai/){: target="_blank"}
 [% / %]
 
 ---
 
 ## <span class="silver">Silver</span>
-[% . logos %]
+[% .logos %]
 [![Owkin](/images/sponsors/owkin.png){: width="300"}](https://www.owkin.com/){: target="_blank"}
 [![GE HealthCare](/images/sponsors/ge_healthcare.png){: width="300"}](https://www.gehealthcare.fr/){: target="_blank"}
 [% / %]
@@ -20,7 +20,7 @@ page_class: "sponsors"
 ---
 
 ## <span class="bronze">Bronze</span>
-[% . logos %]
+[% .logos %]
 [![HeartFlow](/images/sponsors/heartflow.png){: width="300"}](https://www.heartflow.com/){: target="_blank"}
 [% / %]
 
