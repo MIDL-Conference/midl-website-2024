@@ -35,7 +35,7 @@ Short papers are up to 3 pages (excluding references) and can, for example, focu
 
 ## Submission timeline
 
-**Submission platform (Openreview) will open early 2024, few weeks before the registration deadline.**
+**Submission platform (Openreview) will open 01/01/2024.**
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 

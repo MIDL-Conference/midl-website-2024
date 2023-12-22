@@ -12,7 +12,7 @@ page_class: home
 {% from "_macros.html" import newsletter %}
 
 
-**Submission platform (Openreview) will open early 2024, few weeks before the registration deadline.**
+**Submission platform (Openreview) will open 01/01/2024.**
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 
@@ -21,7 +21,9 @@ If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages
 ### Full papers
 [% .deadlines %]
 * **Full paper registration deadline** 31 January 2024
+* **Paper bidding** 1 February - 7 February 2024
 * **Full paper submission deadline** 7 February 2024
+* **Paper assignment** 12 February 2024
 * **Reviews due** 28 February 2024
 * **Rebuttal** 4 March–17 March 2024
 * **Discussion period** 18 March–27 March 2024
