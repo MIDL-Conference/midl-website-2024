@@ -39,7 +39,7 @@ Your duties during the reviewing period will be the following.
 Please note that all deadlines are 23:59 UTC-12 (Anywhere on Earth).
 
 # Create or update your profile on OpenReview
-This year, we will be using the paper matching system of OpenReview so please ensure that your OpenReview profile is up to date including the fields “Education & Career History”, “Advisors & Other Relations”, “Expertise”, and “Publications” and that it lists the email address on which you received reviewer invitation.
+This year, we will be using the paper matching system of OpenReview so please ensure that your OpenReview profile is up to date including the fields “Education & Career History”, “Advisors & Other Relations”, “Expertise”, and “Publications” and that it lists the email address on which you received the reviewer invitation.
 
 Create an account at [OpenReview](https://openreview.net/) if you do not have one yet. In case you find multiple different accounts under your name, you can ask [info@openreview.net](mailto:info@openreview.net) to merge them. After you log into OpenReview, you will see two tasks to update your information.
 
