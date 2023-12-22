@@ -30,6 +30,8 @@ If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages
 * **Final decisions** 5 April 2024
 [% / %]
 
+{{ button("Paper Template", "https://github.com/MIDL-Conference/MIDLLatexTemplate") }}
+
 ### Short papers
 [% .deadlines %]
 * **Short paper submission deadline** 10 April 2024

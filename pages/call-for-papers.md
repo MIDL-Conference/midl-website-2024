@@ -24,6 +24,7 @@ Submissions presenting validation studies demonstrating clinical relevance and n
 
 Inquiries to the program chairs can be addressed directly to [pc@2024.midl.io](mailto:pc@2024.midl.io).
 
+{{ button("Paper Template", "https://github.com/MIDL-Conference/MIDLLatexTemplate") }}
 
 ## Two-Track Submissions
 
