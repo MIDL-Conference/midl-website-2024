@@ -24,7 +24,9 @@ Submissions presenting validation studies demonstrating clinical relevance and n
 
 Inquiries to the program chairs can be addressed directly to [pc@2024.midl.io](mailto:pc@2024.midl.io).
 
-{{ button("Paper Template", "https://github.com/MIDL-Conference/MIDLLatexTemplate") }}
+<p class="button">
+  <a href="https://github.com/MIDL-Conference/MIDLLatexTemplate" target="_blank">Paper Template</a>
+</p>
 
 ## Two-Track Submissions
 
@@ -36,11 +38,13 @@ Short papers are up to 3 pages (excluding references) and can, for example, focu
 
 ## Submission timeline
 
-**Submission platform (Openreview) will open 01/01/2024.**
-
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 
 **Note that visa invitation letters will be available on request as soon as a valid paper has been submitted.**
+
+<p class="button">
+  <a href="https://openreview.net/group?id=MIDL.io/2024/Conference" target="_blank">OpenReview platform</a>
+</p>
 
 ### Full papers
 [% .deadlines %]

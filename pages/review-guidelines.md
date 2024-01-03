@@ -23,8 +23,6 @@ Your duties during the reviewing period will be the following.
 * Give constructive feedback and criticism that helps the authors to improve their work, which is beneficial for the community as a whole.
 * Engage in discussion during the 14-day rebuttal phase between the other reviewers and authors (for full papers), particularly for papers where the decision is uncertain (borderline).
 
-<!-- {{ button("OpenReview platform", "https://openreview.net/group?id=MIDL.io/2024/Conference") }} -->
-
 [% .deadlines %]
 * **Full paper registration deadline** 31 January 2024
 * **Paper bidding** 1 February - 7 February 2024
@@ -47,3 +45,7 @@ Create an account at [OpenReview](https://openreview.net/) if you do not have on
 * Put a link to your DBLP profile if it is not yet there and add your DBLP papers to your profile.
 * Put a link to your Google Scholar profile if it is not yet there.
 * The **Advisors & Other Relations** section can also be filled, if you think some conflicts are not covered by the email domains.
+
+<p class="button">
+  <a href="https://openreview.net/group?id=MIDL.io/2024/Conference" target="_blank">OpenReview platform</a>
+</p>

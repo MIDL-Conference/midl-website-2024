@@ -11,12 +11,13 @@ page_class: home
 
 {% from "_macros.html" import newsletter %}
 
-
-**Submission platform (Openreview) will open 01/01/2024.**
-
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 
 If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages](/sponsorship-packages.html).
+
+<p class="button">
+  <a href="https://openreview.net/group?id=MIDL.io/2024/Conference" target="_blank">OpenReview platform</a>
+</p>
 
 ### Full papers
 [% .deadlines %]
@@ -30,7 +31,9 @@ If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages
 * **Final decisions** 5 April 2024
 [% / %]
 
-{{ button("Paper Template", "https://github.com/MIDL-Conference/MIDLLatexTemplate") }}
+<p class="button">
+  <a href="https://github.com/MIDL-Conference/MIDLLatexTemplate" target="_blank">Paper Template</a>
+</p>
 
 ### Short papers
 [% .deadlines %]
