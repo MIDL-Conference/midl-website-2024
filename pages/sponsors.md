@@ -7,6 +7,7 @@ page_class: "sponsors"
 ## <span class="gold">Gold</span>
 [% .logos %]
 [![Gleamer](/images/sponsors/gleamer.png){: width="300"}](https://www.gleamer.ai/){: target="_blank"}
+[![ImFusion](/images/sponsors/imfusion.png){: width="300"}](https://www.imfusion.com/){: target="_blank"}
 [% / %]
 
 ---
