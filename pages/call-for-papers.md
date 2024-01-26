@@ -24,6 +24,8 @@ Submissions presenting validation studies demonstrating clinical relevance and n
 
 Inquiries to the program chairs can be addressed directly to [pc@2024.midl.io](mailto:pc@2024.midl.io).
 
+Please note that this year, the reviews will be **single-blind**.
+
 <p class="button">
   <a href="https://github.com/MIDL-Conference/MIDLLatexTemplate" target="_blank">Paper Template</a>
 </p>
@@ -35,12 +37,17 @@ Full papers contain methodological developments or well-validated applications o
 
 Short papers are up to 3 pages (excluding references) and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light review process via OpenReview. All accepted short papers will be presented at the conference.
 
+## Student grants
+
+There will be 10 grants for free registration for student submissions. More information to come.
 
 ## Submission timeline
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 
 **Note that visa invitation letters will be available on request as soon as a valid paper has been submitted.**
+
+While the title and abstract can still be changed after the registration deadline (until the submission deadline), they will be used to assign the papers to the reviewers. The authors are therefore asked to give meaningful names and abstracts.
 
 <p class="button">
   <a href="https://openreview.net/group?id=MIDL.io/2024/Conference" target="_blank">OpenReview platform</a>

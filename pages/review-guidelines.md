@@ -6,7 +6,7 @@ title: "Reviewer guidelines"
 
 # Full paper review guidelines
 
-Long papers will go through a full, single-blind reviewing process via OpenReview, with one week for author rebuttal and discussion. The MIDL board and the local organizers encourage reviewers to unblind themselves to increase transparency. Therefore only unblinded reviewers are eligible for reviewer awards.
+Long papers will go through a full, **single-blind** reviewing process via OpenReview, with one week for author rebuttal and discussion. The MIDL board and the local organizers encourage reviewers to unblind themselves to increase transparency. Therefore only unblinded reviewers are eligible for reviewer awards.
 
 * Reviewers should always provide positive, constructive reviews and be as open as possible.
 * The review should include a short summary, a list of pros and cons, and ideas regarding related and future work in case key developments are missing.
