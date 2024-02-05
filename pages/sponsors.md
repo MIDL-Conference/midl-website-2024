@@ -15,6 +15,7 @@ page_class: "sponsors"
 ## <span class="silver">Silver</span>
 [% .logos %]
 [![Owkin](/images/sponsors/owkin.png){: width="300"}](https://www.owkin.com/){: target="_blank"}
+[![AZmed](/images/sponsors/azmed.png){: width="300"}](https://azmed.co/){: target="_blank"}
 [![GE HealthCare](/images/sponsors/ge_healthcare.png){: width="300"}](https://www.gehealthcare.fr/){: target="_blank"}
 [% / %]
 
