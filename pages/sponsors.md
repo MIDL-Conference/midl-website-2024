@@ -8,15 +8,17 @@ page_class: "sponsors"
 [% .logos %]
 [![Gleamer](/images/sponsors/gleamer.png){: width="300"}](https://www.gleamer.ai/){: target="_blank"}
 [![ImFusion](/images/sponsors/imfusion.png){: width="300"}](https://www.imfusion.com/){: target="_blank"}
+[![Siemens Healthineers](/images/sponsors/siemens_healthineers.png){: width="300"}](https://www.siemens-healthineers.com/){: target="_blank"}
 [% / %]
 
 ---
 
 ## <span class="silver">Silver</span>
 [% .logos %]
-[![Owkin](/images/sponsors/owkin.png){: width="300"}](https://www.owkin.com/){: target="_blank"}
-[![AZmed](/images/sponsors/azmed.png){: width="300"}](https://azmed.co/){: target="_blank"}
 [![GE HealthCare](/images/sponsors/ge_healthcare.png){: width="300"}](https://www.gehealthcare.fr/){: target="_blank"}
+[![AZmed](/images/sponsors/azmed.png){: height="100"}](https://azmed.co/){: target="_blank"}
+[![Owkin](/images/sponsors/owkin.png){: width="300"}](https://www.owkin.com/){: target="_blank"}
+[![Medical Volume Annotator](/images/sponsors/mva.svg){: height="100"}](https://www.mva.ai/){: target="_blank"}
 [% / %]
 
 ---
