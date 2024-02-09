@@ -29,6 +29,36 @@ title: "Organization"
 * Fabrice Andre, University Paris-Saclay
 * Marie-Pierre Revel Dubois, Cochin Hospital Paris
 
+## Program committee
+
+* Adrian V Dalca
+* Benjamin Billot
+* Carole Frindel
+* Dwarikanath Mahapatra
+* Francesco Ciompi
+* Guang Yang
+* Hao Chen
+* Herve Lombaert
+* Ilker Hacihaliloglu
+* Jelmer M. Wolterink
+* Jianming Liang
+* Jonas Richiardi
+* Juan Eugenio Iglesias
+* Konstantinos Kamnitsas
+* Lisa M. Koch
+* Mathias Unberath
+* Miaomiao Zhang
+* Minjeong Kim
+* Nicha C Dvornek
+* Olivier Bernard
+* Sandy Engelhardt
+* Sila Kurugol
+* Stéphanie Bricq
+* Tolga Tasdizen
+* Veronika Cheplygina
+* Yan Zhuang
+* Yuankai Huo
+
 ## Website
 
 * Leo Fillioux, CentraleSupélec, Paris
