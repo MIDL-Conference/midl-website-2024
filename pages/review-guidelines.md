@@ -6,7 +6,7 @@ title: "Reviewer guidelines"
 
 # Full paper review guidelines
 
-Long papers will go through a full, **single-blind** reviewing process via OpenReview, with one week for author rebuttal and discussion. The MIDL board and the local organizers encourage reviewers to unblind themselves to increase transparency. Therefore only unblinded reviewers are eligible for reviewer awards.
+Long papers will go through a full, **single-blind** reviewing process via OpenReview, with two weeks for author rebuttal and discussion. The MIDL board and the local organizers encourage reviewers to unblind themselves to increase transparency. Therefore only unblinded reviewers are eligible for reviewer awards.
 
 * Reviewers should always provide positive, constructive reviews and be as open as possible.
 * The review should include a short summary, a list of pros and cons, and ideas regarding related and future work in case key developments are missing.
@@ -16,7 +16,7 @@ Long papers will go through a full, **single-blind** reviewing process via OpenR
 
 Your duties during the reviewing period will be the following.
 
-* You will be responsible for reviewing approximately 3-4 papers between 12/02/2024 and 28/02/2024.
+* You will be responsible for reviewing approximately 4-5 papers between 12/02/2024 and 28/02/2024.
 * You will have the chance to bid for reviewing specific papers during the bidding stage that will take place between 01/02/2024 and 07/02/2024.
 * Writing timely reviews of high quality that reflect the above-mentioned MIDL principles and are fair in judgment.
 * Ranking the papers.
