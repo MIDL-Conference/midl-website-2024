@@ -26,6 +26,7 @@ If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages
 * **Full paper submission deadline** 7 February 2024
 * **Paper assignment** 12 February 2024
 * **Reviews due** 28 February 2024
+* **Reviews released to authors** 4 March 2024
 * **Rebuttal** 4 March–17 March 2024
 * **Discussion period** 18 March–27 March 2024
 * **Final decisions** 5 April 2024
