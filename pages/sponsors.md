@@ -19,6 +19,7 @@ page_class: "sponsors"
 [![AZmed](/images/sponsors/azmed.png){: height="100"}](https://azmed.co/){: target="_blank"}
 [![Owkin](/images/sponsors/owkin.png){: width="300"}](https://www.owkin.com/){: target="_blank"}
 [![Medical Volume Annotator](/images/sponsors/mva.svg){: height="100"}](https://www.mva.ai/){: target="_blank"}
+[![Silver](/images/sponsors/impact.png){: height="100"}](https://www.u-bordeaux.fr/recherche/ambition-scientifique/reseaux-de-recherche-impulsion/IMPACT){: target="_blank"}
 [% / %]
 
 ---
