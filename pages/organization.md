@@ -66,6 +66,7 @@ title: "Organization"
 ---
 ## Supporting organizations
 [% .institutions %]
-[![Sorbonne Center for Artificial intelligence](/assets/logos/scai.svg){: width="300"}](https://scai.sorbonne-universite.fr)
-[![CentraleSupeléc Université Paris-Saclay](/assets/logos/centrale.png){: width="500"}](https://www.centralesupelec.fr/)
+[![Sorbonne Center for Artificial intelligence](/assets/logos/scai.svg){: width="300"}](https://scai.sorbonne-universite.fr){: target="_blank"}
+[![CentraleSupeléc Université Paris-Saclay](/assets/logos/centrale.png){: width="500"}](https://www.centralesupelec.fr/){: target="_blank"}
+[![Inria](/assets/logos/inria.png){: width="500"}](https://www.inria.fr/en){: target="_blank"}
 [% / %]
