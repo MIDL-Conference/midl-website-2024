@@ -37,10 +37,6 @@ Full papers contain methodological developments or well-validated applications o
 
 Short papers are up to 3 pages (excluding references) and can, for example, focus on novel methodological ideas without extensive validation. We also specifically accept short papers discussing recently published or submitted journal contributions to give authors the opportunity to present their work and obtain feedback from conference attendees. Selection of short papers is based on a light review process via OpenReview. All accepted short papers will be presented at the conference. Submissions that are substantially similar to versions that have been accepted or submitted in parallel to other conferences with proceedings are not allowed.
 
-## Student grants
-
-There will be 10 grants for free registration for student submissions. More information to come.
-
 ## Submission timeline
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
