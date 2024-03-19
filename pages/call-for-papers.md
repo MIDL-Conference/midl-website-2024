@@ -47,10 +47,10 @@ While the title and abstract can still be changed after the registration deadlin
 
 ### Full papers
 [% .deadlines %]
-* **Full paper registration deadline** 31 January 2024
-* **Full paper submission deadline** 7 February 2024
-* **Reviews due** 28 February 2024
-* **Rebuttal** 4 March–17 March 2024
+* **<s>Full paper registration deadline</s>** <s>31 January 2024</s>
+* **<s>Full paper submission deadline</s>** <s>7 February 2024</s>
+* **<s>Reviews due</s>** <s>28 February 2024</s>
+* **<s>Rebuttal</s>** <s>4 March–17 March 2024</s>
 * **Discussion period** 18 March–27 March 2024
 * **Final decisions** 5 April 2024
 [% / %]

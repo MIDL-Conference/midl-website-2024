@@ -24,12 +24,12 @@ Your duties during the reviewing period will be the following.
 * Engage in discussion during the 14-day rebuttal phase between the other reviewers and authors (for full papers), particularly for papers where the decision is uncertain (borderline).
 
 [% .deadlines %]
-* **Full paper registration deadline** 31 January 2024
-* **Paper bidding** 1 February - 7 February 2024
-* **Full paper submission deadline** 7 February 2024
-* **Paper assignment** 12 February 2024
-* **Reviews due** 28 February 2024
-* **Rebuttal** 4 March–17 March 2024
+* **<s>Full paper registration deadline</s>** <s>31 January 2024</s>
+* **<s>Paper bidding</s>** <s>1 February - 7 February 2024</s>
+* **<s>Full paper submission deadline</s>** <s>7 February 2024</s>
+* **<s>Paper assignment</s>** <s>12 February 2024</s>
+* **<s>Reviews due</s>** <s>28 February 2024</s>
+* **<s>Rebuttal</s>** <s>4 March–17 March 2024</s>
 * **Discussion period** 18 March–27 March 2024
 * **Final decisions** 5 April 2024
 [% / %]
