@@ -16,7 +16,7 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **<s>Paper assignment</s>** <s>12 February 2024</s>
 * **<s>Reviews due</s>** <s>28 February 2024</s>
 * **<s>Rebuttal</s>** <s>4 March–17 March 2024</s>
-* **Discussion period** 18 March–27 March 2024
+* **<s>Discussion period</s>** <s>18 March–27 March 2024</s>
 * **Final decisions** 5 April 2024
 [% / %]
 
