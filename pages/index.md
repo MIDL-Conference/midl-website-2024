@@ -29,8 +29,8 @@ If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages
 * **<s>Reviews due</s>** <s>28 February 2024</s>
 * **<s>Reviews released to authors</s>** <s>4 March 2024</s>
 * **<s>Rebuttal</s>** <s>4 March–17 March 2024</s>
-* **Discussion period** 18 March–27 March 2024
-* **Final decisions** 5 April 2024
+* **<s>Discussion period</s>** <s>18 March–27 March 2024</s>
+* **<s>Final decisions</s>** <s>5 April 2024</s>
 [% / %]
 
 <p class="button">
@@ -39,7 +39,7 @@ If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages
 
 ### Short papers
 [% .deadlines %]
-* **Short paper submission deadline** 10 April 2024
+* **<s>Short paper submission deadline</s>** <s>10 April 2024</s>
 * **Final decisions** 26 April 2024
 [% / %]
 
