@@ -10,6 +10,8 @@ The registration platform will be made available shortly.
 
 ## Fees
 
+Early registration will be up to May 16th 2024.
+
 <center>
 
 | Category                                       | Price    |
