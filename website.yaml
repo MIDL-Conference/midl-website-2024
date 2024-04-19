@@ -66,4 +66,7 @@ nav:
   - title: "MIDL foundation"
     path: "https://midl.io"
     icon: "scroll"
+  - title: "Job board"
+    path: "https://midl.io/job-board.html"
+    icon: "external-link-alt"
 cdn: "https://static.midl.io"
