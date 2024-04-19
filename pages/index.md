@@ -15,10 +15,11 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 
 If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages](/sponsorship-packages.html).
 
+
 <p class="button">
-  <a href="https://openreview.net/group?id=MIDL.io/2024/Conference" target="_blank">Full Paper OpenReview Platform</a>
-  <a href="https://openreview.net/group?id=MIDL.io/2024/Short_Papers" target="_blank">Short Paper OpenReview Platform</a>
+  <a href="https://it.cborg.info/MIDL2024/" target="_blank">Register to MIDL 2024</a>
 </p>
+
 
 ### Full papers
 [% .deadlines %]
@@ -33,6 +34,10 @@ If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages
 * **<s>Final decisions</s>** <s>5 April 2024</s>
 [% / %]
 
+<p class="button">
+  <a href="https://openreview.net/group?id=MIDL.io/2024/Conference" target="_blank">Full Paper OpenReview Platform</a>
+  <a href="https://openreview.net/group?id=MIDL.io/2024/Short_Papers" target="_blank">Short Paper OpenReview Platform</a>
+</p>
 <p class="button">
   <a href="https://github.com/MIDL-Conference/MIDLLatexTemplate" target="_blank">Paper Template</a>
 </p>

@@ -6,7 +6,10 @@ title: "Call for papers"
 
 The conference is hosted at the [Sorbonne Université - Pierre et Marie Curie Campus](/venue.html).
 <!-- A more detailed program of the conference, as well information on the gala dinner and the doctoral symposium will be made available shortly. -->
-The registration platform will be made available shortly.
+
+<p class="button">
+  <a href="https://it.cborg.info/MIDL2024/" target="_blank">Register to MIDL 2024</a>
+</p>
 
 ## Fees
 
@@ -40,7 +43,7 @@ Single room: room with a single bed, private shower, washbasin and WC. Includes 
 
 Price: **105€/night**
 
-**100 rooms** are available and will be attributed directly upon request.
+**100 rooms** are available and will be attributed directly upon request. In this phase of registration, we will pririotize students for the reservation of the rooms.
 
 Two booking possibilities (no possibility to book individual nights):
 
