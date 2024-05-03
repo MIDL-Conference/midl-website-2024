@@ -16,6 +16,8 @@ Here is the program for the day:
 * 1PM-5PM: Treasure hunt to visit Paris
 * 8PM: Dinner in a secret location!! 
 
+You need to apply for participating to the doctoral symposium until 16/5/2024 by indicating it during your registration, including a small motivation paragraph. We can host maximum 50 students.
+
 <p class="primary-photo centered">
     <img alt="Doctoral Symposium" src="/images/doctoral_symposium.jpg">
 </p>
