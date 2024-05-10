@@ -10,20 +10,22 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 
 ### Full papers
 [% .deadlines %]
-* **<s>Full paper registration deadline</s>** <s>31 January 2024</s>
-* **<s>Paper bidding</s>** <s>1 February - 7 February 2024</s>
-* **<s>Full paper submission deadline</s>** <s>7 February 2024</s>
-* **<s>Paper assignment</s>** <s>12 February 2024</s>
-* **<s>Reviews due</s>** <s>28 February 2024</s>
-* **<s>Rebuttal</s>** <s>4 March–17 March 2024</s>
-* **<s>Discussion period</s>** <s>18 March–27 March 2024</s>
-* **<s>Final decisions</s>** <s>5 April 2024</s>
+* <span style="color:#c9c9c9">**Full paper registration deadline** 31 January 2024</span>
+* <span style="color:#c9c9c9">**Paper bidding** 1 February - 7 February 2024</span>
+* <span style="color:#c9c9c9">**Full paper submission deadline** 7 February 2024</span>
+* <span style="color:#c9c9c9">**Paper assignment** 12 February 2024</span>
+* <span style="color:#c9c9c9">**Reviews due** 28 February 2024</span>
+* <span style="color:#c9c9c9">**Rebuttal** 4 March–17 March 2024</span>
+* <span style="color:#c9c9c9">**Discussion period** 18 March–27 March 2024</span>
+* <span style="color:#c9c9c9">**Final decisions** 5 April 2024</span>
+* **Camera-ready deadline** 1 June 2024
 [% / %]
 
 ### Short papers
 [% .deadlines %]
-* **<s>Short paper submission deadline</s>** <s>10 April 2024</s>
-* **Final decisions** 26 April 2024
+* <span style="color:#c9c9c9">**Short paper submission deadline** 10 April 2024</span>
+* <span style="color:#c9c9c9">**Final decisions** 26 April 2024</span>
+* **Camera-ready deadline** 1 June 2024
 [% / %]
 
 ### Conference date
