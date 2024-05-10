@@ -6,6 +6,8 @@ Please read the items below carefully and follow the instructions, as they are r
 
 Once your final material is prepared according to the detailed instructions below, please **update your submission on OpenReview by June 1st**. You can do that by editing your submission using the `Camera Ready` option. The following fields are available for update:
 
+<center>
+
 | Field            | Item                                |
 | ---------------- | ----------------------------------- |
 | `Title`          | Title                               |
@@ -14,6 +16,8 @@ Once your final material is prepared according to the detailed instructions belo
 | `PDF`            | Camera Ready PDF                    |
 | `Latex Code`     | .zip file containing the latex code |
 | `Copyright Form` | the PMLR copyright form             |
+
+</center>
 
 ## Detailed Instructions
 
@@ -59,12 +63,14 @@ Submit the final paper in PDF format in OpenReview at the `PDF` field.
 
 Once your final material is prepared according to the detailed instructions below, please **update your submission on OpenReview by June 1st**. You can do that by editing your submission using the `Camera Ready` option. The following fields are available for update:
 
+<center>
 | Item       | Field            |
 | :--------- | ---------------- |
 | `Title`    | Title            |
 | `Keywords` | Keywords         |
 | `Abstract` | Abstract         |
 | `PDF`      | Camera Ready PDF |
+</center>
 
 ## Detailed Instructions
 
