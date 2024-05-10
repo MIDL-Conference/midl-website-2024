@@ -28,7 +28,7 @@ Three different items need to be prepared for upload in OpenReview:
 3. PDF of the camera ready version
 
 ### Latex Code
-Prepare your camera ready using the **latest** version of the LaTeX MIDL template (`midl-fullpaper`): [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate)
+Prepare your camera ready submission using the **latest** version of the LaTeX MIDL template (`midl-fullpaper`): [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate)
 
 Please make sure your are **not:**
 
@@ -64,12 +64,14 @@ Submit the final paper in PDF format in OpenReview at the `PDF` field.
 Once your final material is prepared according to the detailed instructions below, please **update your submission on OpenReview by June 1st**. You can do that by editing your submission using the `Camera Ready` option. The following fields are available for update:
 
 <center>
+  
 | Item       | Field            |
 | :--------- | ---------------- |
 | `Title`    | Title            |
 | `Keywords` | Keywords         |
 | `Abstract` | Abstract         |
 | `PDF`      | Camera Ready PDF |
+
 </center>
 
 ## Detailed Instructions
@@ -78,7 +80,7 @@ You only need to upload one file to OpenReview, the PDF of the camera-ready vers
 
 ### Preparing the camera-ready submission
 
-Prepare your camera ready using the **latest** version of the LaTeX MIDL template (`midl-shortpaper`): [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate)
+Prepare your camera ready submission using the **latest** version of the LaTeX MIDL template (`midl-shortpaper`): [https://github.com/MIDL-Conference/MIDLLatexTemplate](https://github.com/MIDL-Conference/MIDLLatexTemplate)
 
 Please make sure your are **not:**
 
