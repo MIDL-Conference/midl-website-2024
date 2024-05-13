@@ -33,16 +33,16 @@ Prepare your camera ready submission using the **latest** version of the LaTeX
 Please make sure your are **not:**
 
 - overriding the options of the `hyperref` package (loaded automatically)
-- using the `times` package (if that was the case, please [contact the program chairs](mailto:pc@2023.midl.io) as soon as possible)
+- using the `times` package (if that was the case, please [contact the program chairs](mailto:pc@2024.midl.io) as soon as possible)
 - overriding the bibliographystyle (defined in `midl.cls`)
 
 After making sure that your project compiles correctly with the standard `pdflatex` compiler, please include all the following items in a single zip folder LaTeX project:
 
-1. The main LaTex file, which should be named `midl23_NNN.tex`, where `NNN` represents the submission OpenReview ID (e.g. 312).
-2. The bibliography should be in a single `.bib` file and named `midl23_NNN.bib` with the same convention as above.
-3. Within the `midl23_NNN.tex` tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly.
+1. The main LaTex file, which should be named `midl24_NNN.tex`, where `NNN` represents the submission OpenReview ID (e.g. 312).
+2. The bibliography should be in a single `.bib` file and named `midl24_NNN.bib` with the same convention as above.
+3. Within the `midl24_NNN.tex` tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly.
 4. You should also set the following variables before the `\title` command: `\jmlryear{2024}\jmlrworkshop{Full Paper -- MIDL 2024}\jmlrvolume{-- nnn}\editors{Accepted for publication at MIDL 2024}`
-5. The bibliography should be included in the paper using the following command: `\bibliography{midl23_NNN}`
+5. The bibliography should be included in the paper using the following command: `\bibliography{midl24_NNN}`
 6. Please do NOT use the `\begin{thebibliography}` environment.
 7. For the camera ready, the page limit is from 8 pages. Acknowledgements, references and appendix do not count toward that limit, and can appear on pages 9+.
 8. Please be sure to check the author/institution list on the title page is de-anonymized, as well as any previously anonymized citations, github repos, data sources, acknowledgements, and other places.
@@ -85,12 +85,12 @@ Prepare your camera ready submission using the **latest** version of the LaTeX
 Please make sure your are **not:**
 
 - overriding the options of the `hyperref` package (loaded automatically)
-- using the `times` package (if that was the case, please [contact the program chairs](mailto:pc@2023.midl.io) as soon as possible)
+- using the `times` package (if that was the case, please [contact the program chairs](mailto:pc@2024.midl.io) as soon as possible)
 - overriding the bibliographystyle (defined in `midl.cls`).
 
 Additional considerations:
 
-1. Within your tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly. Unlike the full papers, the short papers are not assembled into a single volume, so the `\jmlryear{2023}\jmlrworkshop{Full Paper -- MIDL 2023}\jmlrvolume{-- nnn}\editors{Accepted for publication at MIDL 2023}` instructions can be ignored for short papers.
+1. Within your tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly. Unlike the full papers, the short papers are not assembled into a single volume, so the `\jmlryear{2024}\jmlrworkshop{Full Paper -- MIDL 2024}\jmlrvolume{-- nnn}\editors{Accepted for publication at MIDL 2023}` instructions can be ignored for short papers.
 2. For the camera ready, the page limit is still 3 pages. References do not count toward that limit and can appear on pages 4+.
 3. Please be sure to check the author/institution list on the title page is de-anonymized, as well as any previously anonymized citations, github repos, data sources, acknowledgements, and other places.
 4. Please incorporate feedback from the reviewers to the extent possible in your final submission.
