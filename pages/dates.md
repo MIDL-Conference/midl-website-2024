@@ -32,3 +32,9 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 [% .deadlines %]
 * **Main event** 3–5 July 2024
 [% / %]
+
+### Tentative program
+This is a tentative program which is subject to changes.
+<p class="primary-photo centered">
+    <img alt="Tentative program" src="/images/tentative_program.png">
+</p>
