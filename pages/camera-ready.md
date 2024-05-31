@@ -91,7 +91,7 @@ Please make sure your are **not:**
 Additional considerations:
 
 1. Within your tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly.
-3. For the camera ready, the page limit is still 3 pages. References do not count toward that limit and can appear on pages 4+.
+3. For the camera-ready version, the page limit is strictly 3 pages. Acknowledgements should fit within the 3 pages, references do not count toward that limit and can appear on pages 4+.
 4. Please be sure to check the author/institution list on the title page is de-anonymized, as well as any previously anonymized citations, github repos, data sources, acknowledgements, and other places.
 5. You can also update the following variables before the `\title` command: `\jmlryear{2024}\jmlrworkshop{Short Paper -- MIDL 2024}\jmlrvolume{-- nnn}\editors{Accepted for publication at MIDL 2024}`. Unlike the full papers, the short papers are not assembled into a single volume, so these instructions can be ignored for short papers.
 6. Please incorporate feedback from the reviewers to the extent possible in your final submission.
