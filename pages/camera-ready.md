@@ -90,8 +90,9 @@ Please make sure your are **not:**
 
 Additional considerations:
 
-1. Within your tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly. Unlike the full papers, the short papers are not assembled into a single volume, so the `\jmlryear{2024}\jmlrworkshop{Full Paper -- MIDL 2024}\jmlrvolume{-- nnn}\editors{Accepted for publication at MIDL 2023}` instructions can be ignored for short papers.
-2. For the camera ready, the page limit is still 3 pages. References do not count toward that limit and can appear on pages 4+.
-3. Please be sure to check the author/institution list on the title page is de-anonymized, as well as any previously anonymized citations, github repos, data sources, acknowledgements, and other places.
-4. Please incorporate feedback from the reviewers to the extent possible in your final submission.
-5. When you are ready, submit the final paper in PDF format in OpenReview using the `Revision` button and the `PDF` field by June 1st.
+1. Within your tex file, the document class should be: `\documentclass{midl}` (without the `anon` option), and make sure that all authors and co-authors are listed correctly.
+3. For the camera ready, the page limit is still 3 pages. References do not count toward that limit and can appear on pages 4+.
+4. Please be sure to check the author/institution list on the title page is de-anonymized, as well as any previously anonymized citations, github repos, data sources, acknowledgements, and other places.
+5. You can also update the following variables before the `\title` command: `\jmlryear{2024}\jmlrworkshop{Short Paper -- MIDL 2024}\jmlrvolume{-- nnn}\editors{Accepted for publication at MIDL 2024}`. Unlike the full papers, the short papers are not assembled into a single volume, so these instructions can be ignored for short papers.
+6. Please incorporate feedback from the reviewers to the extent possible in your final submission.
+7. When you are ready, submit the final paper in PDF format in OpenReview using the `Revision` button and the `PDF` field by June 1st.
