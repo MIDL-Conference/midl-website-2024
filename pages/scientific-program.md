@@ -94,5 +94,5 @@ title: Scientific Program
     });
 </script>
 <h1>Scientific Program</h1>
-<input type="text" id="searchInput" style="width:100%; padding:.375rem .75rem; color:#495057; border:1px solid #ced4da; border-radius: .25rem; line-height: 1.5;"placeholder="Search for paper number, session, author, title ...">
+<input type="text" id="searchInput" style="width:100%; box-sizing: border-box; padding:.375rem .75rem; color:#495057; border:1px solid #ced4da; border-radius: .25rem; line-height: 1.5;"placeholder="Search for paper number, session, author, title ...">
 <div style="margin-top:2rem;" id="paperlist"></div>
