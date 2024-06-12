@@ -18,14 +18,14 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * <span style="color:#c9c9c9">**Rebuttal** 4 March–17 March 2024</span>
 * <span style="color:#c9c9c9">**Discussion period** 18 March–27 March 2024</span>
 * <span style="color:#c9c9c9">**Final decisions** 5 April 2024</span>
-* **Camera-ready deadline** 1 June 2024
+* <span style="color:#c9c9c9">**Camera-ready deadline** 1 June 2024</span>
 [% / %]
 
 ### Short papers
 [% .deadlines %]
 * <span style="color:#c9c9c9">**Short paper submission deadline** 10 April 2024</span>
 * <span style="color:#c9c9c9">**Final decisions** 26 April 2024</span>
-* **Camera-ready deadline** 1 June 2024
+* <span style="color:#c9c9c9">**Camera-ready deadline** 1 June 2024</span>
 [% / %]
 
 ### Conference date
