@@ -26,7 +26,7 @@
         "UID": "O-203",
         "forum": "https:\/\/openreview.net\/forum?id=vCEMidGVbv",
         "Track": "Full Paper",
-        "Session": "Oral 1.1 - Segmentatio",
+        "Session": "Oral 1.1 - Segmentation",
         "Final Decision": "Oral",
         "title": "Re-DiffiNet: Modeling discrepancy in tumor segmentation using diffusion models",
         "abstract": "Identification of tumor margins is essential for surgical decision-making for glioblastoma patients and provides reliable assistance for neurosurgeons. Despite improvements in deep learning architectures for tumor segmentation over the years, creating a fully autonomous system suitable for clinical floors remains a formidable challenge because the model predictions have not yet reached the desired level of accuracy and generalizability for clinical applications. Generative modeling techniques have seen significant improvements in recent times. Specifically, Generative Adversarial Networks (GANs) and Denoising diffusion probabilistic models (DDPMs) have been used to generate higher-quality images with fewer artifacts and finer attributes. In this work, we introduce a framework called Re-Diffinet for modeling the discrepancy between the outputs of a segmentation model like U-Net and the ground truth, using DDPMs. By explicitly modeling the discrepancy, the results show an average improvement of 0.55\\% in the Dice score and 16.28\\% in 95\\% Hausdorff Distance from cross-validation over 5-folds, compared to the state-of-the-art U-Net segmentation model. The code is available:",
