@@ -289,8 +289,8 @@ jQuery(document).ready(function($) {
         <td id='t01' class='col1' rowspan=2 height="20" style="text-align: center" valign=center>9:00 - 9:30</td>
         <td id='clr03' class='col3' colspan=1 rowspan=24 style="text-align: center" align="center" valign=center>Doctoral Symposium</td>
         <td id='clr01' class='col3' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=2 rowspan=1>Welcome</td>
-        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=4>Oral session<br>Oral 2.1 - Clinical Translation + TLDomainAdapt</td>
-        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=4>Oral session<br>Oral 3.1 - XAI & Uncertainty </td> 
+        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=4>Oral session<br>Oral 2.1 - Clinical Translation & Domain Adaption</td>
+        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=4>Oral session<br>Oral 3.1 - Explainable AI & Uncertainty</td> 
      </tr>
      <tr>
         <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=3>Oral 1.1 - Segmentation</td>
@@ -355,9 +355,9 @@ jQuery(document).ready(function($) {
      <!-- 14:30-15 -->
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:30 - 15:00</td>
-        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Oral 1.2 Representation learning and Multimodal Methods </td>
-        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Oral 2.2 - Emerging (GeomDL, Fed)</td>
-        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=3>Oral 3.2 - MELBA Session</td> 
+        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Oral 1.2 - Representation Learning and Multimodal Methods</td>
+        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Oral 2.2 - Geomemtric Deep Learning & Fedderated Learning</td>
+        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=3>Oral 3.2 - Foundation Models</td> 
      </tr>
      <!-- 15-15:30 -->
      <tr>
@@ -384,7 +384,7 @@ jQuery(document).ready(function($) {
      <!-- 16:30-17 -->
      <tr>
         <td id='t01' class='col1' rowspan=2 height="20" style="text-align: center" valign=center>16:30 - 17:00</td>
-        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=3>Oral 1.3 - Semi/ Weakly-Supervised learning</td>
+        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=3>Oral 1.3 - Semi/Weakly-Supervised Learning</td>
         <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=3>Oral 2.3 - Synthesis</td>
      </tr>
      <tr>
@@ -393,7 +393,7 @@ jQuery(document).ready(function($) {
      <!-- 17-17:30 -->
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>17:00 - 17:30</td>
-        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=1>Oral 3.3 - Emerging Topics (Foundation Models)</td>
+        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=1>Oral 3.3 - MELBA Session</td>
      </tr>
      <!-- 17:30-18 -->
      <tr>
