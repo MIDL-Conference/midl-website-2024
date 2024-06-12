@@ -289,8 +289,8 @@ jQuery(document).ready(function($) {
         <td id='t01' class='col1' rowspan=2 height="20" style="text-align: center" valign=center>9:00 - 9:30</td>
         <td id='clr03' class='col3' colspan=1 rowspan=24 style="text-align: center" align="center" valign=center>Doctoral Symposium</td>
         <td id='clr01' class='col3' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=2 rowspan=1>Welcome</td>
-        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=4>Oral session<br>Oral 2.1 - Clinical Translation & Domain Adaption</td>
-        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=4>Oral session<br>Oral 3.1 - Explainable AI & Uncertainty</td> 
+        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=4>Oral 2.1 - Clinical Translation & Domain Adaption</td>
+        <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=4>Oral 3.1 - Explainable AI & Uncertainty</td> 
      </tr>
      <tr>
         <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=3>Oral 1.1 - Segmentation</td>
