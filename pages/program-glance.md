@@ -344,9 +344,9 @@ jQuery(document).ready(function($) {
      <!-- 13:30-14 -->
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>13:30 - 14:00</td>
-        <td id='clr08' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Keynote</td>
-        <td id='clr08' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Keynote</td>
-        <td id='clr08' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Keynote</td> 
+        <td id='clr08' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Keynote (Gaël Varoquaux)</td>
+        <td id='clr08' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Keynote (Laure Fournier)</td>
+        <td id='clr08' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Keynote (Karim Lekadir)</td> 
      </tr>
      <!-- 14-14:30 -->
      <tr>
