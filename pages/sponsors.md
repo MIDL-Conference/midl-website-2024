@@ -27,6 +27,7 @@ page_class: "sponsors"
 ## <span class="bronze">Bronze</span>
 [% .logos %]
 [![HeartFlow](/images/sponsors/heartflow.png){: width="300"}](https://www.heartflow.com/){: target="_blank"}
+[![Labex PRIMES](/images/sponsors/labex_primes.png){: width="300"}](https://primes.universite-lyon.fr){: target="_blank"}
 [% / %]
 
 ---
