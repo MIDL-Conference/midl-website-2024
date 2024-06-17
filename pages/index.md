@@ -56,3 +56,5 @@ If you would like to sponsor MIDL 2024, have a look at the [sponsorship packages
 [% / %]
 
 {{ newsletter("2024.midl.io", inline=False) }}
+
+Still available: [Aims and scope](/aims-and-scope.html), [Camera ready instructions](/camera-ready.html), [Call for papers](/call-for-papers.html), [Author instructions](/author-instructions.html), [Reviewer guidelines](/review-guidelines.html), [Sponsorship](/sponsorship-packages.html).
