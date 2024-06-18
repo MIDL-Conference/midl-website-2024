@@ -9,7 +9,7 @@ page_class: "sponsors"
 [![Gleamer](/images/sponsors/gleamer.png){: width="300"}](https://www.gleamer.ai/){: target="_blank"}
 [![ImFusion](/images/sponsors/imfusion.png){: width="300"}](https://www.imfusion.com/){: target="_blank"}
 [![Olea Medical](/images/sponsors/olea_medical.png){: width="300"}](https://www.olea-medical.com/){: target="_blank"}
-<!-- [![Siemens Healthineers](/images/sponsors/siemens_healthineers.png){: width="300"}](https://www.siemens-healthineers.com/){: target="_blank"} -->
+[![Siemens Healthineers](/images/sponsors/siemens_healthineers.png){: width="300"}](https://www.siemens-healthineers.com/){: target="_blank"}
 [% / %]
 
 ---
