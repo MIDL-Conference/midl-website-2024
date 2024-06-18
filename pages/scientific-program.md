@@ -55,7 +55,7 @@ title: Scientific Program
                     ${number} - ${title}, 
                     <i>${authors}</i>, 
                     <span class="track">${track} Track</span>
-                    <span class="links">(<a class="toggle_visibility">Abstract</a>, <a href="${pdf}" target="_black"> PDF </a>, <a href="${url}" target="_black"> Reviews </a>)</span>
+                    <span class="links">(<a class="toggle_visibility">Abstract</a>, <a href="${pdf}" target="_black"> PDF </a>, <a href="${url}" target="_black"> Reviews</a>)</span>
                     
                     <p class="abstract" style="display: none; margin-top:1rem; margin-bottom:1rem;"> <strong>Abstract: </strong>${abstract}</p>
                     </li>

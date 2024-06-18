@@ -2836,5 +2836,49 @@
         "title": "Spirochetosis detection in colon histopathology images via fine-tuning and boosting techniques using foundation models",
         "abstract": "Spirochetes are bacteria that can be found on the boundaries of colon epithelial tissue, causing several diseases ranging from spirochetosis, inflammatory bowel disease, to cancer. Despite their relevance, spirochetes often remain undetected in histological analysis.\nWe propose the first computational pathology approach to characterize spirochetes, leveraging prior spatial knowledge to detect spirochetes in whole-slide images of colon polyps and biopsies, and differentiate these bacteria as belonging to normal or abnormal tissue.\nWe focus on transfer learning by fine-tuning state-of-the-art computational pathology foundation models and by training an additional XGBoost classifier on downstream tasks.",
         "authors": "Agata Polejowska, Fazael Ayatollahi, Ayse Selcen Oguz Erdogan, Francesco Ciompi, Annemarie Boleij"
+    },
+    {
+        "number": 1,
+        "UID": "MO-2024-005",
+        "forum": "https:\/\/www.melba-journal.org\/papers\/2024:005.html",
+        "Track": "MELBA Journal-to-conference",
+        "Session": "Oral 3.3 - MELBA Journal-to-conference",
+        "Final Decision": "Oral",
+        "title": "HyperPredict: Estimating Hyperparameter Effects for Instance-Specific Regularization in Deformable Image Registration",
+        "abstract": "Methods for medical image registration infer geometric transformations that align pairs, or groups, of images by maximising an image similarity metric. This problem is ill-posed as several solutions may have equivalent likelihoods, also optimising purely for image similarity can yield implausible deformable transformations. For these reasons regularization terms are essential to obtain meaningful registration results. However, this requires the introduction of at least one hyperparameter, often termed λ, which serves as a trade-off between loss terms. In some approaches and situations, the quality of the estimated transformation greatly depends on hyperparameter choice, and different choices may be required depending on the characteristics of the data. Analyzing the effect of these hyperparameters requires labelled data, which is not commonly available at test-time. In this paper, we propose a novel method for evaluating the influence of hyperparameters and subsequently selecting an optimal value for given pair of images. Our approach, which we call HyperPredict, implements a Multi-Layer Perceptron that learns the effect of selecting particular hyperparameters for registering an image pair by predicting the resulting segmentation overlap and measures of deformation smoothness. This approach enables us to select optimal hyperparameters at test time without requiring labelled data, removing the need for a one-size-fits-all cross-validation approach. Furthermore, the criteria used to define optimal hyperparameter is flexible post-training, allowing us to efficiently choose specific properties (e.g. overlap of specific anatomical regions of interest, smoothness/plausibility of the final displacement field). We evaluate our proposed method on the OASIS brain MR standard benchmark dataset using a recent deep learning approach (cLapIRN) and an algorithmic method (Niftyreg). Our results demonstrate good performance in predicting the effects of regularization hyperparameters and highlight the benefits of our image-pair specific approach to hyperparameter selection.",
+        "authors": "Aisha Lawal Shuaibu, Ivor J. A. Simpson"
+    },
+    {
+        "number": 1,
+        "UID": "MP-2024-005",
+        "forum": "https:\/\/www.melba-journal.org\/papers\/2024:005.html",
+        "Track": "MELBA Journal-to-conference",
+        "Session": "Poster 3.2",
+        "Final Decision": "Poster",
+        "title": "HyperPredict: Estimating Hyperparameter Effects for Instance-Specific Regularization in Deformable Image Registration",
+        "abstract": "Methods for medical image registration infer geometric transformations that align pairs, or groups, of images by maximising an image similarity metric. This problem is ill-posed as several solutions may have equivalent likelihoods, also optimising purely for image similarity can yield implausible deformable transformations. For these reasons regularization terms are essential to obtain meaningful registration results. However, this requires the introduction of at least one hyperparameter, often termed λ, which serves as a trade-off between loss terms. In some approaches and situations, the quality of the estimated transformation greatly depends on hyperparameter choice, and different choices may be required depending on the characteristics of the data. Analyzing the effect of these hyperparameters requires labelled data, which is not commonly available at test-time. In this paper, we propose a novel method for evaluating the influence of hyperparameters and subsequently selecting an optimal value for given pair of images. Our approach, which we call HyperPredict, implements a Multi-Layer Perceptron that learns the effect of selecting particular hyperparameters for registering an image pair by predicting the resulting segmentation overlap and measures of deformation smoothness. This approach enables us to select optimal hyperparameters at test time without requiring labelled data, removing the need for a one-size-fits-all cross-validation approach. Furthermore, the criteria used to define optimal hyperparameter is flexible post-training, allowing us to efficiently choose specific properties (e.g. overlap of specific anatomical regions of interest, smoothness/plausibility of the final displacement field). We evaluate our proposed method on the OASIS brain MR standard benchmark dataset using a recent deep learning approach (cLapIRN) and an algorithmic method (Niftyreg). Our results demonstrate good performance in predicting the effects of regularization hyperparameters and highlight the benefits of our image-pair specific approach to hyperparameter selection.",
+        "authors": "Aisha Lawal Shuaibu, Ivor J. A. Simpson"
+    },
+    {
+        "number": 2,
+        "UID": "MO-2024-010",
+        "forum": "https:\/\/www.melba-journal.org\/papers\/2024:010.html",
+        "Track": "MELBA Journal-to-conference",
+        "Session": "Oral 3.3 - MELBA Journal-to-conference",
+        "Final Decision": "Oral",
+        "title": "Leveraging SO(3)-steerable convolutions for pose-robust semantic segmentation in 3D medical data",
+        "abstract": "Convolutional neural networks (CNNs) allow for parameter sharing and translational equivariance by using convolutional kernels in their linear layers. By restricting these kernels to be SO(3)-steerable, CNNs can further improve parameter sharing and equivariance. These equivariant convolutional layers have several advantages over standard convolutional layers, including increased robustness to unseen poses, smaller network size, and improved sample efficiency. Despite this, most segmentation networks used in medical image analysis continue to rely on standard convolutional kernels. In this paper, we present a new family of segmentation networks that use equivariant voxel convolutions based on spherical harmonics. These SE(3)-equivariant volumetric segmentation networks, which are robust to data poses not seen during training, do not require rotation-based data augmentation during training. In addition, we demonstrate improved segmentation performance in MRI brain tumor and healthy brain structure segmentation tasks, with enhanced robustness to reduced amounts of training data and improved parameter efficiency. Code to reproduce our results, and to implement the equivariant segmentation networks for other tasks is available at http://github.com/SCAN-NRAD/e3nn_Unet.",
+        "authors": "Ivan Diaz, Mario Geiger, Richard Iain McKinley"
+    },
+    {
+        "number": 2,
+        "UID": "MP-2024-010",
+        "forum": "https:\/\/www.melba-journal.org\/papers\/2024:010.html",
+        "Track": "MELBA Journal-to-conference",
+        "Session": "Poster 3.2",
+        "Final Decision": "Poster",
+        "title": "Leveraging SO(3)-steerable convolutions for pose-robust semantic segmentation in 3D medical data",
+        "abstract": "Convolutional neural networks (CNNs) allow for parameter sharing and translational equivariance by using convolutional kernels in their linear layers. By restricting these kernels to be SO(3)-steerable, CNNs can further improve parameter sharing and equivariance. These equivariant convolutional layers have several advantages over standard convolutional layers, including increased robustness to unseen poses, smaller network size, and improved sample efficiency. Despite this, most segmentation networks used in medical image analysis continue to rely on standard convolutional kernels. In this paper, we present a new family of segmentation networks that use equivariant voxel convolutions based on spherical harmonics. These SE(3)-equivariant volumetric segmentation networks, which are robust to data poses not seen during training, do not require rotation-based data augmentation during training. In addition, we demonstrate improved segmentation performance in MRI brain tumor and healthy brain structure segmentation tasks, with enhanced robustness to reduced amounts of training data and improved parameter efficiency. Code to reproduce our results, and to implement the equivariant segmentation networks for other tasks is available at http://github.com/SCAN-NRAD/e3nn_Unet.",
+        "authors": "Ivan Diaz, Mario Geiger, Richard Iain McKinley"
     }
 ]
