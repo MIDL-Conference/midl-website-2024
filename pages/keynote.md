@@ -27,6 +27,8 @@ page_class: "keynotes"
 
 ## Karim Lekadir ![Portrait of Karim Lekadir](/images/keynote/karim_lekadir.png){: width="180" }
 ### ICREA research professor, department of mathematics and computer science at the University of Barcelona
-#### Topic of the talk to be announced
+#### The whole picture: Building trustworthy AI in medical imaging from the ground up
+
+**Abstract.** Every year, MIDL presents the latest in deep learning for medical imaging, introducing techniques that enhance data quality, improve model generalisability, reduce systematic biases, foster AI explainability, and ensure thorough validation. These innovations are essential for developing AI tools that are robust, safe, and ethical. In this talk, I will argue that while technical advancements form a critical component, they are only one piece of the puzzle to build trust in AI. I will present best practices derived from international experiences to operationalise trustworthy AI in practice. Covering the entire AI lifecycle, I will highlight the importance of stakeholder engagement, diversity and inclusion, risk management, comprehensive validation and continuous monitoring.
 
 **Biography.** Karim Lekadir is an ICREA Research Professor in the Department of Mathematics and Computer Science at the University of Barcelona. He obtained his PhD from Imperial College London and was a postdoctoral researcher at Stanford University. He investigates new data science techniques for trustworthy and ethical artificial intelligence in medicine. He has been PI in 12 EU-funded projects, coordinated 5 Horizon projects, and was awarded an ERC Consolidator grant to investigate new AI techniques tailored to resource-limited settings. In addition, Karim is General Chair for the MICCAI 2024 Conference (Medical Image Computing and Computer-Assisted Intervention) which for the first time will take place in Africa – in Marrakesh, Morocco.
