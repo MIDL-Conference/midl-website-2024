@@ -2215,7 +2215,7 @@
         "UID": "F-302",
         "forum": "https:\/\/openreview.net\/forum?id=YUtcFW5xRt",
         "Track": "Full Paper",
-        "Session": "Poster 3.1",
+        "Session": "Poster 2.1",
         "Final Decision": "Poster",
         "title": "Improving Identically Distributed and Out-of-Distribution Medical Image Classification with Segmentation-Guided Attention in Small Dataset Scenarios",
         "abstract": "We propose a new approach for training medical image classification models using segmentation masks, particularly effective in small dataset scenarios. By guiding the model\u2019s attention with segmentation masks toward relevant features, we significantly improve accuracy for diagnosing Hydronephrosis. Evaluation of our model on identically distributed data showed either the same or better performance with improvement up to 0.28 in AUROC and up to 0.33 in AUPRC. Our method showed better generalization ability than baselines, improving from 0.02 to 0.75 in AUROC and from 0.09 to 0.47 in AUPRC for four different out-of-distribution datasets. The results show that models trained on smaller datasets using our approach can achieve comparable results to those trained on datasets 25 times larger.",
