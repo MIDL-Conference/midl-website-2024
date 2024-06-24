@@ -356,7 +356,7 @@ jQuery(document).ready(function($) {
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>14:30 - 15:00</td>
         <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Oral 1.2 - Representation Learning and Multimodal Methods</td>
-        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Oral 2.2 - Geomemtric Deep Learning & Fedderated Learning</td>
+        <td id='clr02' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=2>Oral 2.2 - Geometric Deep Learning and Federated Learning</td>
         <td id='clr02' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=3>Oral 3.2 - Foundation Models</td> 
      </tr>
      <!-- 15-15:30 -->
