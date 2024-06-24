@@ -37,7 +37,8 @@ title: Scientific Program
 
             for (const session in groupedData) {
                 const sessionContainer = $('<div class="session-group"></div>');
-                sessionContainer.append(`<h3>${session}</h3>`);
+                const sessionTime = groupedData[session][0]['Time'] || ''; // Get the time for the session
+                sessionContainer.append(`<h3>${session}</h3><h4><span style="color:#888;">${sessionTime}</span></h4>`);
                 
                 groupedData[session].forEach(function (row) {
                     const rowData = $('<ul></ul>');
@@ -55,7 +56,7 @@ title: Scientific Program
                     ${number} - ${title}, 
                     <i>${authors}</i>, 
                     <span class="track">${track} Track</span>
-                    <span class="links">(<a class="toggle_visibility">Abstract</a>, <a href="${pdf}" target="_black"> PDF </a>, <a href="${url}" target="_black"> Reviews</a>)</span>
+                    <span class="links">(<a class="toggle_visibility">Abstract</a>, <a href="${pdf}" target="_black"> PDF</a>, <a href="${url}" target="_black"> Reviews</a>)</span>
                     
                     <p class="abstract" style="display: none; margin-top:1rem; margin-bottom:1rem;"> <strong>Abstract: </strong>${abstract}</p>
                     </li>
