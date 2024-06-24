@@ -37,7 +37,8 @@ title: Scientific Program
 
             for (const session in groupedData) {
                 const sessionContainer = $('<div class="session-group"></div>');
-                sessionContainer.append(`<h3>${session}</h3>`);
+                const sessionTime = groupedData[session][0]['Time'] || ''; // Get the time for the session
+                sessionContainer.append(`<h3>${session}</h3><h4><span style="color:#888;">${sessionTime}</span></h4>`);
                 
                 groupedData[session].forEach(function (row) {
                     const rowData = $('<ul></ul>');
@@ -49,15 +50,22 @@ title: Scientific Program
                     const url = row['forum'];
                     const pdf = url.replace('forum','pdf');
                     const presentation = row['Final Decision'];
+                    let poster;
+                    if (presentation === 'Oral') {
+                        poster = '<strong>Poster time: </strong>' + row['Poster time'] + '<br><strong>Poster ID: </strong>F' + number.substring(1);
+                    } else {
+                        poster = '<strong>Poster time: </strong>' + row['Poster time'];
+                    }
 
                     rowData.append(`
                     <li>  
                     ${number} - ${title}, 
                     <i>${authors}</i>, 
                     <span class="track">${track} Track</span>
-                    <span class="links">(<a class="toggle_visibility">Abstract</a>, <a href="${pdf}" target="_black"> PDF </a>, <a href="${url}" target="_black"> Reviews</a>)</span>
+                    <span class="links">(<a class="toggle_visibility">Abstract</a>, <a href="${pdf}" target="_black"> PDF</a>, <a href="${url}" target="_black"> Reviews</a>, <a class="toggle_visibility_poster">Poster</a>)</span>
                     
                     <p class="abstract" style="display: none; margin-top:1rem; margin-bottom:1rem;"> <strong>Abstract: </strong>${abstract}</p>
+                    <p class="poster_info" style="display: none; margin-top:1rem; margin-bottom:1rem;">${poster}</p>
                     </li>
                     `);
                     sessionContainer.append(rowData);
@@ -70,6 +78,13 @@ title: Scientific Program
             $('.toggle_visibility').click(function (event) {
                 event.preventDefault();
                 $(this).closest('li').find('.abstract').toggle();
+                $(this).closest('li').find('.poster_info').hide();
+            });
+            // Add event listener to toggle visibility of the poster information
+            $('.toggle_visibility_poster').click(function (event) {
+                event.preventDefault();
+                $(this).closest('li').find('.poster_info').toggle();
+                $(this).closest('li').find('.abstract').hide();
             });
         }
 
