@@ -398,20 +398,21 @@ jQuery(document).ready(function($) {
      <!-- 17:30-18 -->
      <tr>
         <td id='t01' class='col1' rowspan=2 height="20" style="text-align: center" valign=center>17:30 - 18:00</td>
-        <td id='clr09' class='col3' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=1 rowspan=5>Get together</td>
-        <td id='clr10' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=1 rowspan=1>Poster removal</td> 
+        <td id='clr04' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=2 rowspan=1>Sponsor event</td> 
         <td id='clr10' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=2 rowspan=1>Poster removal</td>
         <td id='clr01' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=2 rowspan=1>Awards</td> 
      </tr>
      <tr>
-        <td id='t01' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=1 rowspan=4></td> 
-        <td id='t01' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=2 rowspan=4></td> 
-        <td id='clr01' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=2 rowspan=1>Closing</td>
+      <td id='clr09' class='col3' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=1 rowspan=5>Get together</td>
+      <td id='clr10' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=1 rowspan=1>Poster removal</td> 
+      <td id='t01' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=2 rowspan=4></td> 
+      <td id='clr01' class='col4' style="text-align: center; margin: 0; padding: 0" align="center" valign=center colspan=2 rowspan=1>Closing</td>
      </tr>
      <!-- 18-18:30 -->
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>18:00 - 18:30</td>
         <td id='t01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=3></td>
+        <td id='t01' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=4></td>
         <td id='t01' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=4></td>
      </tr>
      <!-- 18:30-19 -->
@@ -426,7 +427,6 @@ jQuery(document).ready(function($) {
      <tr>
         <td id='t01' class='col1' rowspan=1 height="20" style="text-align: center" valign=center>Evening</td>
         <td id='clr03' class='col3' style="text-align: center" align="center" valign=center colspan=1 rowspan=1>Doctoral Symposium<br>Evening</td>
-        <td id='t01' class='col3' style="text-align: center" align="center" valign=center colspan=2 rowspan=1></td>
         <td id='clr09' class='col4' style="text-align: center" align="center" valign=center colspan=2 rowspan=1>Gala dinner</td> 
      </tr>
 </table>
