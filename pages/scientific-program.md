@@ -38,7 +38,16 @@ title: Scientific Program
             for (const session in groupedData) {
                 const sessionContainer = $('<div class="session-group"></div>');
                 const sessionTime = groupedData[session][0]['Time'] || ''; // Get the time for the session
-                sessionContainer.append(`<h3>${session}</h3><h4><span style="color:#888;">${sessionTime}</span></h4>`);
+                const sessionType = groupedData[session][0]['Final Decision'];
+
+                let chairs;
+                if (sessionType === 'Oral') {
+                    chairs = '<h4><span style="color:#888;"><strong>Chairs</strong>: ' + groupedData[session][0]["Chairs"] + '</span></h4>';
+                } else {
+                    chairs = '';
+                }
+
+                sessionContainer.append(`<h3>${session}</h3><h4><span style="color:#888;">${sessionTime}</span></h4>${chairs}`);
                 
                 groupedData[session].forEach(function (row) {
                     const rowData = $('<ul></ul>');
