@@ -50,12 +50,8 @@ title: Scientific Program
                     const url = row['forum'];
                     const pdf = url.replace('forum','pdf');
                     const presentation = row['Final Decision'];
-                    let poster;
-                    if (presentation === 'Oral') {
-                        poster = '<strong>Poster time: </strong>' + row['Poster time'] + '<br><strong>Poster ID: </strong>F' + number.substring(1);
-                    } else {
-                        poster = '<strong>Poster time: </strong>' + row['Poster time'];
-                    }
+
+                    const poster = '<strong>Poster time: </strong>' + row['Poster time'] + '<br><strong>Poster ID: </strong>' + row['Poster ID'];
 
                     rowData.append(`
                     <li>  
