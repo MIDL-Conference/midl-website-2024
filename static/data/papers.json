@@ -3733,34 +3733,5 @@
         "Time": "Day 3 \u2014 15:45-16:45",
         "Poster time": "Day 3 \u2014 15:45-16:45",
         "Poster ID": "Poster 3.1 - M.03"
-    },
-    {
-        "number": 4,
-        "UID": "MO-2024-015",
-        "forum": "https://arxiv.org/abs/2404.02830",
-        "Track": "MELBA Journal-to-conference",
-        "Session": "Oral 3.3 - MELBA Journal-to-conference",
-        "Final Decision": "Oral",
-        "title": "Enhancing Interpretability of Vertebrae Fracture Grading using Human-interpretable Prototypes",
-        "abstract": "Vertebral fracture grading classifies the severity of vertebral fractures, which is a challenging task in medical imaging and has recently attracted Deep Learning (DL) models. Only a few works attempted to make such models human-interpretable despite the need for transparency and trustworthiness in critical use cases like DL-assisted medical diagnosis. Moreover, such models either rely on post-hoc methods or additional annotations. In this work, we propose a novel interpretable-by-design method, ProtoVerse, to find relevant sub-parts of vertebral fractures (prototypes) that reliably explain the model's decision in a human-understandable way. Specifically, we introduce a novel diversity-promoting loss to mitigate prototype repetitions in small datasets with intricate semantics. We have experimented with the VerSe'19 dataset and outperformed the existing prototype-based method. Further, our model provides superior interpretability against the post-hoc method. Importantly, expert radiologists validated the visual interpretability of our results, showing clinical applicability.",
-        "authors": "Poulami Sinhamahapatra, Suprosanna Shit, Anjany Sekuboyina, Malek Husseini, David Schinz, Nicolas Lenhart, Joern Menze, Jan Kirschke, Karsten Roscher, Stephan Guennemann",
-        "Time": "Day 3 \u2014 17:00-17:30",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
-        "Poster ID": "Poster 3.1 - M.04",
-        "Chairs": "Tal Arbel & Hugues Talbot"
-    },
-    {
-        "number": 4,
-        "UID": "MO-2024-015",
-        "forum": "https://arxiv.org/abs/2404.02830",
-        "Track": "MELBA Journal-to-conference",
-        "Session": "Poster 3.2",
-        "Final Decision": "Poster",
-        "title": "Enhancing Interpretability of Vertebrae Fracture Grading using Human-interpretable Prototypes",
-        "abstract": "Vertebral fracture grading classifies the severity of vertebral fractures, which is a challenging task in medical imaging and has recently attracted Deep Learning (DL) models. Only a few works attempted to make such models human-interpretable despite the need for transparency and trustworthiness in critical use cases like DL-assisted medical diagnosis. Moreover, such models either rely on post-hoc methods or additional annotations. In this work, we propose a novel interpretable-by-design method, ProtoVerse, to find relevant sub-parts of vertebral fractures (prototypes) that reliably explain the model's decision in a human-understandable way. Specifically, we introduce a novel diversity-promoting loss to mitigate prototype repetitions in small datasets with intricate semantics. We have experimented with the VerSe'19 dataset and outperformed the existing prototype-based method. Further, our model provides superior interpretability against the post-hoc method. Importantly, expert radiologists validated the visual interpretability of our results, showing clinical applicability.",
-        "authors": "Poulami Sinhamahapatra, Suprosanna Shit, Anjany Sekuboyina, Malek Husseini, David Schinz, Nicolas Lenhart, Joern Menze, Jan Kirschke, Karsten Roscher, Stephan Guennemann",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
-        "Poster ID": "Poster 3.1 - M.04"
     }
 ]
