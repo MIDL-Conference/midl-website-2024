@@ -3733,5 +3733,19 @@
         "Time": "Day 3 \u2014 15:45-16:45",
         "Poster time": "Day 3 \u2014 15:45-16:45",
         "Poster ID": "Poster 3.1 - M.03"
+    },
+    {
+        "number": 4,
+        "UID": "MO-2023-002",
+        "forum": "https://www.melba-journal.org/papers/2023:002.html",
+        "Track": "MELBA Journal-to-conference",
+        "Session": "Poster 3.2",
+        "Final Decision": "Poster",
+        "title": "Are we using appropriate segmentation metrics? Identifying correlates of human expert perception for CNN training beyond rolling the DICE coefficient",
+        "abstract": "Metrics optimized in complex machine learning tasks are often selected in an ad-hoc manner. It is unknown how they align with human expert perception. We explore the correlations between established quantitative segmentation quality metrics and qualitative evaluations by professionally trained human raters. Therefore, we conduct psychophysical experiments for two complex biomedical semantic segmentation problems. We discover that current standard metrics and loss functions correlate only moderately with the segmentation quality assessment of experts. Importantly, this effect is particularly pronounced for clinically relevant structures, such as the enhancing tumor compartment of glioma in brain magnetic resonance and grey matter in ultrasound imaging. It is often unclear how to optimize abstract metrics, such as human expert perception, in convolutional neural network (CNN) training. To cope with this challenge, we propose a novel strategy employing techniques of classical statistics to create complementary compound loss functions to better approximate human expert perception. Across all rating experiments, human experts consistently scored computer-generated segmentations better than the human-curated reference labels. Our results, therefore, strongly question many current practices in medical image segmentation and provide meaningful cues for future research.",
+        "authors": "Florian Kofler, Ivan Ezhov, Fabian Isensee, Fabian Balsiger, Christoph Berger, Maximilian Koerner, Beatrice Demiray, Julia Rackerseder, Johannes Paetzold, Hongwei Li, Suprosanna Shit, Richard McKinley, Marie Piraud, Spyridon Bakas, Claus Zimmer, Nassir Navab, Jan Kirschke, Benedikt Wiestler, Bjoern Menze",
+        "Time": "Day 3 \u2014 15:45-16:45",
+        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Poster ID": "Poster 3.1 - M.04"
     }
 ]
