@@ -2,14 +2,14 @@
 title: Medical Imaging with Deep Learning 2024
 page_class: home
 ---
-{% from "_macros.html" import button %}
+{% from "_macros.html" import newsletter, button, youtube %}
+
 # Medical Imaging with Deep Learning
 ## Paris, 3—5 July 2024
-<p class="primary-photo centered">
+<!-- <p class="primary-photo centered">
     <img alt="Paris, France" src="/images/paris_small.jpeg">
-</p>
-
-{% from "_macros.html" import newsletter %}
+</p> -->
+{{ youtube('27FOGfwgCL8') }}
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 
