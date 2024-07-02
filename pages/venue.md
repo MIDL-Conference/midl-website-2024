@@ -10,6 +10,12 @@ MIDL 2024 will be hosted at [Sorbonne Université - Pierre et Marie Curie Campus
 
 It is easily accessible with metro lines 7 and 10 at the Jussieu station.
 
+<!-- [![Inria](){: width="500"}] -->
+<p align="center">
+  <img src="/images/plan_jussieu.jpg" width=700/>
+  <img src="/images/scai.png" width=700/>
+</p>
+
 ## Accessibility
 
 The conference venue is easily accessible with metro lines 7 and 10 at the **Jussieu** station. If you're arriving directly from an airport (Charles de Gaulle or Orly), you should be there in about one hour. We recommend using the [CityMapper](https://citymapper.com) application to travel around Paris.
