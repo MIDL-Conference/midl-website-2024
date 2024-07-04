@@ -9,17 +9,19 @@ page_class: home
 <!-- <p class="primary-photo centered">
     <img alt="Paris, France" src="/images/paris_small.jpeg">
 </p> -->
-{{ youtube('27FOGfwgCL8') }}
+<!-- {{ youtube('Co9yUIAw6H0') }} -->
+<div class="youtube">
+  <iframe width="720"
+          height="405"
+          src="https://www.youtube.com/embed/Co9yUIAw6H0"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+</div>
 
 <p class="button">
-  <a href="https://it.cborg.info/MIDL2024/" target="_blank">Register to MIDL 2024</a>
+  <a href="https://youtu.be/27FOGfwgCL8/" target="_blank">Day 1</a>
 </p>
-
-<p class="button">
-  <a href="https://openreview.net/group?id=MIDL.io/2024/Conference" target="_blank">Full Paper OpenReview Platform</a>
-  <a href="https://openreview.net/group?id=MIDL.io/2024/Short_Papers" target="_blank">Short Paper OpenReview Platform</a>
-</p>
-
 
 {{ newsletter("2024.midl.io", inline=False) }}
 
