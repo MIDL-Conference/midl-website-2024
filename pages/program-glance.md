@@ -288,7 +288,7 @@ title: "Program at a glance"
             <td class="s0" rowspan="4">Evening</td>
             <td class="s3" dir="ltr" rowspan="4">Doctoral symposium evening</td>
             <td class="s0" colspan="2" rowspan="4"></td>
-            <td class="s10" colspan="2" rowspan="4">Gala dinner</td>
+            <td class="s10" colspan="2" rowspan="4">Gala dinner (19:30)</td>
          </tr>
          <tr style="height: 19px">
             <th id="1197808027R48" style="height: 19px;" class="row-headers-background">
