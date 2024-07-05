@@ -2974,21 +2974,6 @@
         "Poster ID": "Poster 3.2 - O.03"
     },
     {
-        "number": 31,
-        "UID": "O-31",
-        "forum": "https://openreview.net/forum?id=Y1BeK8dTno",
-        "Track": "Full Paper",
-        "Session": "Oral 3.2 - Foundation Models",
-        "Final Decision": "Oral",
-        "title": "ICL-SAM: Synergizing In-context Learning Model and SAM in Medical Image Segmentation",
-        "abstract": "Medical image segmentation, a field facing domain shifts due to diverse imaging modal- ities and biomedical domains, has made strides with the development of robust models. The In-Context Learning (ICL) model, like UniverSeg, demonstrates robustness to domain shifts with support image-label pairs in varied medical imaging segmentation tasks. How- ever, its performance is still unsatisfied. On the other hand, the Segment Anything Model (SAM) stands out as a powerful universal segmentation model. In this work, we intro- duce a novel methodology, ICL-SAM, that integrates the superior performance of SAM with the ICL model to create more effective segmentation models within the in-context learning paradigm. Our approach employs SAM to refine segmentation results from ICL model and leverages ICL model to generate prompts for SAM, eliminating the need for manual prompt provision. Additionally, we introduce a semantic confidence map gener- ation method into our framework to guide the prediction of both ICL model and SAM, thereby further enhancing segmentation accuracy. Our method has been extensively eval- uated across multiple medical imaging contexts, including fundus, MRI, and CT images, spanning five datasets. The results demonstrate significant performance improvements, particularly in settings with few support pairs, where our method can achieve over a 10% increase in the Dice coefficient compared to cutting edge ICL model. Our code will be publicly available.",
-        "authors": "Jiesi Hu, Yang Shang, Yanwu Yang, Guo Xutao, Hanyang Peng, Ting Ma",
-        "Time": "Day 3 \u2014 14:30-15:30",
-        "Poster time": "Day 3 \u2014 11:00-12:30",
-        "Poster ID": "Poster 3.2 - O.03",
-        "Chairs": "Tal Arbel & Ismail Ben Ayed"
-    },
-    {
         "number": 59,
         "UID": "F-59",
         "forum": "https://openreview.net/forum?id=LNdU9RTv3L",
