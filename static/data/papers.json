@@ -2925,7 +2925,7 @@
         "title": "[Citation needed] Data usage and citation practices in medical imaging conferences",
         "abstract": "Medical imaging papers often focus on methodology, but the quality of the algorithms and the validity of the conclusions are highly dependent on the datasets used. As creating datasets requires a lot of effort, researchers often use publicly available datasets, there is however no adopted standard for citing the datasets used in scientific papers, leading to difficulty in tracking dataset usage.\nIn this work, we present two open-source tools we created that could help with the detection of dataset usage, a pipeline using OpenAlex and full-text analysis, and a PDF annotation software used in our study to manually label the presence of datasets. We applied both tools on a study of the usage of 20 publicly available medical datasets in papers from MICCAI and MIDL. \nWe compute the proportion and the evolution between 2013 and 2023 of 3 types of presence in a paper: cited, mentioned in the full text, cited and mentioned. Our findings demonstrate the concentration of the usage of a limited set of datasets. We also highlight different citing practices, making the automation of tracking difficult.",
         "authors": "Th\u00e9o Sourget, Ahmet Akko\u00e7, Stinna Winther, Christine Lyngbye Galsgaard, Amelia Jim\u00e9nez-S\u00e1nchez, Dovile Juodelyte, Caroline Petitjean, Veronika Cheplygina",
-        "Time": "Day 3 \u2014 14:30-15:30",
+        "Time": "Day 3 \u2014 14:30-15:15",
         "Poster time": "Day 3 \u2014 11:00-12:30",
         "Poster ID": "Poster 3.2 - O.02",
         "Chairs": "Tal Arbel & Ismail Ben Ayed"
@@ -2954,7 +2954,7 @@
         "title": "Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models",
         "abstract": "Medical image segmentation allows quantifying target structure size and shape, aiding in disease diagnosis, prognosis, surgery planning, and comprehension. Building upon recent advancements in foundation Vision-Language Models (VLMs) from natural image-text pairs, several studies have proposed adapting them to Vision-Language Segmentation Models (VLSMs) that allow using language text as an additional input to segmentation models. Introducing auxiliary information via text with human-in-the-loop prompting during inference opens up unique opportunities, such as open vocabulary segmentation and potentially more robust segmentation models against out-of-distribution data.\nAlthough transfer learning from natural to medical images has been explored for image-only segmentation models, the joint representation of vision-language in segmentation problems remains underexplored. This study introduces the first systematic study on transferring VLSMs to 2D medical images, using carefully curated $11$ datasets encompassing diverse modalities and insightful language prompts and experiments. Our findings demonstrate that although VLSMs show competitive performance compared to image-only models\nfor segmentation after finetuning in limited medical image datasets, not all VLSMs utilize the additional information from language prompts, with image features playing a dominant role. While VLSMs exhibit enhanced performance in handling pooled datasets with diverse\nmodalities and show potential robustness to domain shifts compared to conventional segmentation models, our results suggest that novel approaches are required to enable VLSMs to leverage the various auxiliary information available through language prompts. The code and datasets are available at https://github.com/naamiinepal/medvlsm.",
         "authors": "Kanchan Poudel, Manish Dhakal, Prasiddha Bhandari, Rabin Adhikari, Safal Thapaliya, Bishesh Khanal",
-        "Time": "Day 3 \u2014 14:30-15:30",
+        "Time": "Day 3 \u2014 14:30-15:15",
         "Poster time": "Day 3 \u2014 11:00-12:30",
         "Poster ID": "Poster 3.2 - O.04",
         "Chairs": "Tal Arbel & Ismail Ben Ayed"
@@ -2997,7 +2997,7 @@
         "title": "Slide-SAM: Medical SAM Meets Sliding Window",
         "abstract": "The Segment Anything Model (SAM) has achieved a notable success in two-dimensional image segmentation in natural images. However, the substantial gap between medical and natural images hinders its direct application to medical image segmentation tasks. Particularly in 3D medical images, SAM struggles to learn contextual relationships between slices, limiting its practical applicability. Moreover, applying 2D SAM to 3D images requires prompting the entire volume, which is time- and label-consuming. To address these problems, we propose Slide-SAM, which treats a stack of three adjacent slices as a prediction window. It firstly takes three slices from a 3D volume and point- or bounding box prompts on the central slice as inputs to predict segmentation masks for all three slices. Subsequently, the masks of the top and bottom slices are then used to generate new prompts for adjacent slices. Finally, step-wise prediction can be achieved by sliding the prediction window forward or backward through the entire volume. Our model is trained on multiple public and private medical datasets and demonstrates its effectiveness through extensive 3D segmetnation experiments, with the help of minimal prompts. Code is available at https://github.com/Curli-quan/Slide-SAM.",
         "authors": "Quan Quan, Fenghe Tang, Zikang Xu, Heqin Zhu, S Kevin Zhou",
-        "Time": "Day 3 \u2014 14:30-15:30",
+        "Time": "Day 3 \u2014 14:30-15:15",
         "Poster time": "Day 3 \u2014 11:00-12:30",
         "Poster ID": "Poster 3.2 - O.01",
         "Chairs": "Tal Arbel & Ismail Ben Ayed"
@@ -3166,8 +3166,8 @@
         "title": "Evaluating ChatGPT's Performance in Generating and Assessing Dutch Radiology Report Impressions",
         "abstract": "The integration of Large Language Models (LLMs), such as ChatGPT, in radiology could\noffer insight and interpretation to the increasing number of radiological findings generated\nby Artificial Intelligence (AI). However, the complexity of medical text presents many chal-\nlenges for LLMs, particularly in uncommon languages such as Dutch. This study therefore\naims to evaluate ChatGPT\u2019s ability to generate accurate \u2018Impression\u2019 sections of radiol-\nogy reports, and its effectiveness in evaluating these sections compared against human\nradiologist judgments. We utilized a dataset of CT-thorax radiology reports to fine-tune\nChatGPT and then conducted a reader study with two radiologists and GPT-4 out-of-the-\nbox to evaluate the AI-generated \u2018Impression\u2019 sections in comparison to the originals. The\nresults revealed that human experts rated original impressions higher than AI-generated\nones across correctness, completeness, and conciseness, highlighting a gap in the AI\u2019s abil-\nity to generate clinically reliable medical text. Additionally, GPT-4\u2019s evaluations were\nmore favorable towards AI-generated content, indicating limitations in its out-of-the-box\nuse as an evaluator in specialized domains. The study emphasizes the need for cautious\nintegration of LLMs into medical domains and the importance of expert validation, yet\nalso acknowledges the inherent subjectivity in interpreting and evaluating medical reports.",
         "authors": "Luc Builtjes, Monique Brink, Bram van Ginneken, Alessa Hering",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - F.01"
     },
     {
@@ -3180,8 +3180,8 @@
         "title": "Zero-Shot Medical Image Segmentation Based on Sparse Prompt Using Finetuned SAM",
         "abstract": "Segmentation of medical images plays a critical role in various clinical applications, facilitat- ing precise diagnosis, treatment planning, and disease monitoring. However, the scarcity of annotated data poses a significant challenge for training deep learning models in the medical imaging domain. In this paper, we propose a novel approach for minimally-guided zero-shot segmentation of medical images using the Segment Anything Model (SAM), orig- inally trained on natural images. The method leverages SAM\u2019s ability to segment arbitrary objects in natural scenes and adapts it to the medical domain without the need for labeled medical data, except for a few foreground and background points on the test image it- self. To this end, we introduce a two-stage process, involving the extraction of an initial mask from self-similarity maps and test-time fine-tuning of SAM. We run experiments on diverse medical imaging datasets, including AMOS22, MoNuSeg and the Gland segmen- tation (GlaS) challenge, and demonstrate the effectiveness of our approach.",
         "authors": "Tal Shaharabany, Lior Wolf",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - F.02"
     },
     {
@@ -3194,8 +3194,8 @@
         "title": "Leveraging Latents for Efficient Thermography Classification and Segmentation",
         "abstract": "Breast cancer is a prominent health concern worldwide, currently being the secondmost common and second-deadliest type of cancer in women. While current breast cancer\ndiagnosis mainly relies on mammography imaging, in recent years the use of thermography\nfor breast cancer imaging has been garnering growing popularity. Thermographic imaging relies on infrared cameras to capture body-emitted heat distributions. While these\nheat signatures have proven useful for computer-vision systems for accurate breast cancer\nsegmentation and classification, prior work often relies on handcrafted feature engineering\nor complex architectures, potentially limiting the comparability and applicability of these\nmethods. In this work, we present a novel algorithm for both breast cancer classification and\nsegmentation. Rather than focusing efforts on manual feature and architecture engineering,\nour algorithm focuses on leveraging an informative, learned feature space, thus making our\nsolution simpler to use and extend to other frameworks and downstream tasks, as well as\nmore applicable to data-scarce settings. Our classification produces SOTA results, while we\nare the first work to produce segmentation regions studied in this paper. Code for reproducing all experiments is available at github.com/tamirshor7/Latents-Guided-Thermography.",
         "authors": "Tamir Shor, Chaim Baskin, Alexander Bronstein",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.03"
     },
     {
@@ -3208,8 +3208,8 @@
         "title": "Curriculum-learning for Vessel Occlusion Detection in Multi-site Brain CT Angiographies",
         "abstract": "Deep learning models often fail to generalize to target data due to shifts between target and training data distributions. Hence, their impact in the real world is limited. To solve this, including training data from more sites may not be enough, as new data may also present shifts with the original training data, complicating the learning process. We hypothesize that curriculum-learning may provide more robust models against training site shifts by sorting these sites in order of increased difficulty. In this work, we focus on Vessel Occlusion detection in CT angiographies from stroke-suspected patients from three sites, training first on large homogeneous balanced sites, which we hypothesize are easier to learn. Next, we incorporate small heterogeneous imbalanced sites, which may be more complex. Our approach is compared to training only on a large homogeneous site (single-site training) and to training on all sites (pooled-site training). We reach a 2% improvement in FROC and AUROC scores. Thus, adequately ordering the training sites based on simple characteristics such as label balance or data size may improve model robustness.",
         "authors": "Andr\u00e9s Mart\u00ednez Mora, Michael Baumgartner, Gianluca Brugnara, Maximilian Zenk, Yannick Kirchhoff, Aditya Rastogi, Alexander Radbruch, Martin Bendszus, Clara I. S\u00e1nchez, Philipp Vollmuth, Klaus Maier-Hein",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.17"
     },
     {
@@ -3222,8 +3222,8 @@
         "title": "Boosting 3D Neuron Segmentation with 2D Vision Transformer Pre-trained on Natural Images",
         "abstract": "Neuron reconstruction, one of the fundamental tasks in neuroscience, rebuilds neuronal morphology from 3D light microscope imaging data. It plays a critical role in analyzing the structure-function relationship of neurons in the nervous system. However, due to the scarcity of neuron datasets and high-quality SWC annotations, it is still challenging to develop robust segmentation methods for single neuron reconstruction. To address this limitation, we aim to distill the consensus knowledge from massive natural image data to aid the segmentation model in learning the complex neuron structures. Specifically, in this work, we propose a novel training paradigm that leverages a 2D Vision Transformer model pre-trained on large-scale natural images to initialize our Transformer-based 3D neuron segmentation model with a tailored 2D-to-3D weight transferring strategy. Our method builds a knowledge sharing connection between the abundant natural and the scarce neuron image domains to improve the 3D neuron segmentation ability in a data-efficiency manner. Evaluated on a popular benchmark, BigNeuron, our method enhances neuron segmentation performance by 8.71% over the model trained from scratch with the same amount of training samples.",
         "authors": "Yik San Cheng, Runkai Zhao, Heng Wang, Hanchuan Peng, Weidong Cai",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.18"
     },
     {
@@ -3236,8 +3236,8 @@
         "title": "Bottom-up Instance Segmentation of Catheters for Chest X-ray Images",
         "abstract": "Chest X-ray (CXR) is frequently used in emergency departments and intensive care units to verify the proper placement of central lines and tubes and to rule out related complications. \nThe automation of the X-ray reading process can be a valuable support tool for non-specialist technicians and minimize reporting delays due to non-availability of experts.\nWhile existing solutions for automated catheter segmentation and malposition detection show promising results, the disentanglement of individual catheters remains an open challenge, especially in complex cases where multiple devices appear superimposed in the X-ray projection. \nIn this paper, we propose a deep learning approach based on associative embeddings for catheter instance segmentation, able to effectively handle device intersections.",
         "authors": "Francesca Boccardi, Axel Saalbach, Heinrich Schulz, Samuele Salti, Ilyas Sirazitdinov",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.10"
     },
     {
@@ -3250,8 +3250,8 @@
         "title": "eva: Evaluation framework for pathology foundation models",
         "abstract": "In computational pathology, self-supervised learning trained models surpass supervised ones in scale and performance. However, the benchmarking of these models remains a challenge due to the diversity in tasks and evaluation methods. To address this, we introduce eva (available at https://kaiko-ai.github.io/eva), an open-source framework for evaluating computational pathology foundation models (FMs). eva is designed to be modular and adaptable to both off-the-shelf and customized datasets, metrics, evaluation protocols and model architectures. We benchmark leading pathology FMs across diverse downstream classification tasks, establishing the first public reproducible pathology FM leaderboard and advocating for standardized FM evaluation practices.",
         "authors": "kaiko.ai, Ioannis Gatopoulos, Nicolas K\u00e4nzig, Roman Moser, Sebastian Ot\u00e1lora",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.24"
     },
     {
@@ -3264,8 +3264,8 @@
         "title": "Predicting non-visible future tumour from baseline low dose CT using deep learned features",
         "abstract": "Studies have shown that yearly screening with low-dose computed tomography (LDCT) effectively reduces lung cancer mortality (NLST Research Team, 2011b). With the increas- ing number of deep learning tools that are trained on large collection of scans it has been possible to automatically report lung nodules (Venkadesh et al., 2023). We hypothesized that deep learning might also be able to predict the risk of future malignancies based on LDCT imaging in which no tumours are presently visible. This would provide a triage mechanism for identifying patients who would benefit from yearly screening versus those who might attend biannual screening. We use data from The National Lung Screen Trial (NLST) (NLST Research Team, 2011a) and compare the accuracy of multiple pre-trained classification models from the Keras library to predict a slice-by-slice risk of future tumour occurrence. The best performing model can achieved an AUC of 0.741 demonstrating a successful classifier.",
         "authors": "Sheng Yu, Yan Wen, Carolyn Horst, Balaji Ganeshan, Spencer Angus Thomas, Reyer Zwiggelaar, Richard Lee, Xujiong Ye, Matthew Blackledge",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.19"
     },
     {
@@ -3278,8 +3278,8 @@
         "title": "ViM-UNet: Vision Mamba for Biomedical Segmentation",
         "abstract": "CNNs, most notably the UNet, are the default architecture for biomedical segmentation. Transformer-based approaches, such as UNETR, have been proposed to replace them, benefiting from a global field of view, but suffering from larger runtimes and higher parameter counts. The recent Vision Mamba architecture offers a compelling alternative to transformers, also providing a global field of view, but at higher efficiency. Here, we introduce ViM-UNet, a novel segmentation architecture based on it and compare it to UNet and UNETR for two challenging microscopy instance segmentation tasks.\nWe find that it performs similarly or better than UNet, depending on the task, and outperforms UNETR while being more efficient. Our code is open source and documented at https://github.com/constantinpape/torch-em/blob/main/vimunet.md",
         "authors": "Anwai Archit, Constantin Pape",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.11"
     },
     {
@@ -3292,8 +3292,8 @@
         "title": "On the Importance of Expert Knowledge to Improve Foundation Models for Retinal Fundus Images",
         "abstract": "Foundation models are currently revolutionizing the medical image analysis community. Pre-trained on large data sources, such networks provide efficient transferability to downstream tasks. In this context, a myriad of foundation models leveraging large amounts of general medical data and increasing network sizes are appearing in the literature. In this short paper, we study the importance of incorporating domain-specific expert knowledge during pre-training of specialized foundation models in the context of fundus retina images. In particular, we focus on introducing the expert knowledge-driven vision-language model FLAIR (Silva-Rodriguez et al., 2023), comparing its benefits to larger-scale generalists and domain-specific self-supervised models.",
         "authors": "Julio Silva-Rodr\u00edguez, Hadi Chakor, Riadh kobbi, Jose Dolz, Ismail Ben Ayed",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.22"
     },
     {
@@ -3306,8 +3306,8 @@
         "title": "SegmentWithSAM: 3D Slicer Extension for Segment Anything Model (SAM)",
         "abstract": "The development of reliable automated deep learning-based algorithms for the segmentation of medical images is heavily reliant on training data in the form of images along with outlines of the objects of interest. However, manual annotation of medical images is very time-consuming and often requires highly specialized expertise. Here, we provide software that incorporates the recently developed and highly impactful Segment Anything Model (SAM) into the popular software for the visualization and annotation of medical images, 3D Slicer. SAM has been developed to segment any object with prompt-based user guidance. It has been shown to be successful in aiding some annotations in medical imaging. The software described in this paper allows to leverage the power of SAM while using the highly convenient and publicly available 3D Slicer software. Our code is publicly available on https://github.com/mazurowski-lab/SlicerSegmentWithSAM, and it can be installed directly from the Extension Manager of 3D Slicer.",
         "authors": "Zafer Yildiz, Hanxue Gu, Jikai Zhang, Jichen Yang, Maciej A Mazurowski",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.25"
     },
     {
@@ -3320,8 +3320,8 @@
         "title": "Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Vision Foundation Models",
         "abstract": "Parameter-efficient fine-tuning (PEFT) that was initially developed for exploiting pre-\ntrained large language models has recently emerged as an effective approach to perform\ntransfer learning on computer vision tasks. However, the effectiveness of PEFT on medical\nvision foundation models is still unclear and remains to be explored. As a proof of concept,\nwe conducted a detailed empirical study on applying PEFT to chest radiography foundation\nmodels. Specifically, we delved into LoRA, a representative PEFT method, and compared\nit against full-parameter fine-tuning (FFT) on two self-supervised radiography foundation\nmodels across three well-established chest radiograph datasets. Our results showed that\nLoRA outperformed FFT in 13 out of 18 transfer learning tasks by at most 2.9% using\nfewer than 1% tunable parameters. Combining LoRA with foundation models, we set up\nnew state-of-the-art on a range of data-efficient learning tasks, such as an AUROC score of\n80.6% using 1% labeled data on NIH ChestX-ray14. We hope this study can evoke more\nattention from the community in the use of PEFT for transfer learning on medical imaging\ntasks. Code and models are available at https://github.com/RL4M/MED-PEFT.",
         "authors": "Chenyu Lian, Hong-Yu Zhou, Yizhou Yu, Liansheng Wang",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.26"
     },
     {
@@ -3334,8 +3334,8 @@
         "title": "Monitoring Disease Progression with Stable Diffusion- A Visual Approach",
         "abstract": "Monitoring disease progression is quintessential for effective  healthcare by providing early diagnosis, timely interventions and improved patient outcomes. In the recent years, diffusion models have become extremely popular for synthetic medical image generation.    \nIn this work, we combine Stable Diffusion with image editing through textual guidance and cross-attention reweighing to predict disease progression for patients enrolled for a Retinopathy of Prematurity \n(ROP) disease screening program. Our technique provides effective visualization for monitoring disease severity over time on new subjects",
         "authors": "Sourav Kumar, Shell Xu Hu, Aaron S Coyner, Wei-Chun Lin, Susan Ostmo, Deniz Erdogmus, RV Paul Chan, Michael F. Chiang, J. Peter Campbell, Jayashree Kalpathy-cramer, Timothy Hospedales, Praveer Singh",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.23"
     },
     {
@@ -3348,8 +3348,8 @@
         "title": "SAM-Geo3D: A Geometrical Method to Extend SAM to 3D",
         "abstract": "Segment Anything Model (SAM) offers a promising approach for image segmentation tasks. However, SAM works in 2D making it less useful when segmenting cross-sectional images, such as MRIs. To address this, we proposed SAM-Geo3D, a geometrical method that extends SAM into the 3D manner. Given a few prompt points on a target component, SAM-Geo3D segments the component through all slices in 3D without onerous deep-learning-based training. We validated SAM-Geo3D on five knee MRI volumes. Results showed that SAM-Geo3D outperforms SAM when using the same, limited number of input prompt points.",
         "authors": "Jikai Zhang, Zafer Yildiz, Hanxue Gu, Haoyu Dong, Maciej A Mazurowski",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.20"
     },
     {
@@ -3362,8 +3362,8 @@
         "title": "CW nnU-Net for Universal Lesion Segmentation Challenge on 3D Computed Tomography",
         "abstract": "3D lesion segmentation of oncological computed tomography (CT) is a crucial step in precisely monitoring changes in lesion/tumor growth, which enables the extraction of meaningful information from medical images, aiding in diagnosis, treatment planning and monitoring of diseases. In this research, we developed a highly efficient and effective CW nnU-Net and ensemble models for 3D lesion segmentation on CT for the Universal Lesion Segmentation (ULS) Challenge, which will be held jointly with 2024 medical imaging with deep learning (MIDL) conference at Paris, France.  The proposed approach was built with a reasonably cheap Nvidia RTX 4080 GPU card and outperformed the baseline models in both development and test phase. In the final test phase, the proposed model ranks as the 3rd place among 577 participants worldwide, achieving a Challenge Score of 0.73, Segmentation DICE of 0.70 and Consistency DICE of 0.79. In the development phase, the proposed CW nnU-Net achieved a Challenge Score of 0.81, Segmentation DICE of 0.78 and Consistency DICE of 0.92.\nFor computational efficiency, CW nnU-Net takes only 3.25s for processing each VOI on the Grand Challenge platform server with a single T4 GPU and less than 2s using a local PC with RTX4080.",
         "authors": "Ching-Wei Wang, Ting-Sheng Su, Hikam Muzakkyi, Yu-Ching Lee",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.12"
     },
     {
@@ -3376,8 +3376,8 @@
         "title": "The Advanced Toolbox for Multitask Medical Imaging Consistency (ATOMMIC): A framework to facilitate Deep Learning in Magnetic Resonance Imaging",
         "abstract": "Integrating Deep Learning (DL) into medical imaging, particularly in Magnetic Resonance Imaging (MRI), has marked a significant advancement in the field, enhancing the efficiency and accuracy of tasks such as image reconstruction, segmentation, and quantitative parameter map estimation. Despite these advancements, existing frameworks have limited support to perform multiple tasks simultaneously, essential for optimizing the workflow from data acquisition to analysis. Addressing this gap, we introduce the Advanced Toolbox for Multitask Medical Imaging Consistency (ATOMMIC), a novel open-source toolbox designed to facilitate the integration of multiple MRI tasks within a unified MultiTask Learning (MTL) framework. ATOMMIC supports a wide range of DL models and datasets, allowing for seamless and consistent execution of multiple tasks. By enabling joint task execution and supporting complex and real-valued data, ATOMMIC allows to streamline various DL applications in MRI reconstruction and analysis.",
         "authors": "Dimitrios Karkalousos, Ivana Isgum, Henk Marquering, Matthan W. A. Caan",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.01"
     },
     {
@@ -3390,8 +3390,8 @@
         "title": "Evaluation of pseudo-healthy reconstruction for anomaly detection in brain FDG PET",
         "abstract": "We propose an evaluation procedure based on the simulation of realistic abnormal images to validate pseudo-healthy reconstruction methods when no ground truth is available. We apply this framework to the reconstruction of 3D brain FDG PET using a convolutional variational autoencoder. This work has recently been published at MELBA.",
         "authors": "Ravi Hassanaly, Camille Brianceau, Ma\u00eblys Solal, Olivier Colliot, Ninon Burgos",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.32"
     },
     {
@@ -3404,8 +3404,8 @@
         "title": "Consistent Direct Diffusion Bridge with Injection for MRI Reconstruction",
         "abstract": "In MRI, lengthy acquisition times often cause motion artifacts. We propose a new method, Consistent Direct Diffusion Bridge with Injection (CCDBI), which leverages diffusionbased image priors to reconstruct MRI from undersampled k-space data. Unlike traditional diffusion methods starting with Gaussian noise, CCDBI begins sampling from actual measurements, improving accuracy by aligning with the target image. By combining information from noisy image domain and k-space adaptively, CCDBI ensures consistency in the Direct Diffusion Bridge (DDB), enhancing reconstruction quality. Experimental results on IXI and OASIS-2 datasets demonstrate CCDBI\u2019s superiority over existing algorithms.",
         "authors": "Pyatkovskiy Sergey, Jaejun Yoo",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.02"
     },
     {
@@ -3418,8 +3418,8 @@
         "title": "Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations",
         "abstract": "Curating annotations for medical image segmentation is a labor-intensive task that requires domain expertise, resulting in \"narrowly\" focused deep learning (DL) models with limited translational utility. We explore the potential of the Segment Anything Model (SAM) for crowd-sourcing \"sparse\" annotations from non-experts to generate \"dense\" segmentation masks for training 3D nnU-Net models. Our results indicate that while SAM-generated annotations exhibit high mean Dice scores compared to ground-truth annotations, SAM nnU-Net models perform significantly worse than ground-truth nnU-Net models.",
         "authors": "Pranav Kulkarni, Adway Kanhere, Dharmam Savani, Andrew Chan, Devina Chatterjee, Paul Yi, Vishwa Sanjay Parekh",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.29"
     },
     {
@@ -3432,8 +3432,8 @@
         "title": "Can Frozen Transformers in Large Language Models Help with Medical Image Segmentation?",
         "abstract": "Transformer models shine in medical image segmentation by harnessing their self-attention mechanism to capture global information, thus boosting segmentation accuracy. Recent research has unveiled that large language models (LLMs), trained solely on text, surprisingly excel at visual tasks even without language, through a simple strategy: integrating a frozen transformer block from pre-trained LLMs as a direct visual token processor. This paper applies this approach to medical image segmentation by combining frozen transformer blocks with TransUNet. Experiments are conducted on BTCV, ACDC, ISIC 2017, CVC-ClinicDB, CVC-ColonDB and BUSI datasets, demonstrating some improvements compared to the baseline.",
         "authors": "Juntao Jiang, Yong Liu",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.28"
     },
     {
@@ -3446,8 +3446,8 @@
         "title": "Validating Noisy Label Learning in Noisy Clinical Datasets",
         "abstract": "Noise in ground truth labels limits model performance; in response, learning with noisy labels (LNL) has received much attention in recent years. However, most research has been applied to competition datasets where a clean (noiseless) test set is available. A gap exists in applying LNL to practical datasets such as colposcopy, where such clean sets are not available. By synthesizing additional noise, targeted to mimic real-world errors, to the training labels, and using an imperfect test set, we demonstrate that LNL methods outperform traditional learning, thus bridging this gap.",
         "authors": "Andr\u00e9 Aquilina, Emmanouil Papagiannakis",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.13"
     },
     {
@@ -3460,8 +3460,8 @@
         "title": "Rethinking Perceptual Metrics for Medical Image Translation",
         "abstract": "Modern medical image translation methods use generative models for tasks such as the conversion of CT images to MRI. Evaluating these methods typically relies on some chosen downstream task in the target domain, such as segmentation. On the other hand, task-agnostic metrics are attractive, such as the network feature-based perceptual metrics (e.g., FID) that are common to image translation in general computer vision. In this paper, we investigate evaluation metrics for medical image translation on two medical image translation tasks (GE breast MRI to Siemens breast MRI and lumbar spine MRI to CT), tested on various state-of-the-art translation methods. We show that perceptual metrics do not generally correlate with segmentation metrics due to them extending poorly to the anatomical constraints of this sub-field, with FID being especially inconsistent. However, we find that the lesser-used *pixel-level* SWD metric may be useful for subtle intra-modality translation. Our results demonstrate the need for further research into helpful metrics for medical image translation.",
         "authors": "Nicholas Konz, Yuwen Chen, Hanxue Gu, Haoyu Dong, Maciej A Mazurowski",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.14"
     },
     {
@@ -3474,8 +3474,8 @@
         "title": "Boost Your Medical Deep-Learning Training By Lazy Loading",
         "abstract": "In recent years, the growing volume size of medical datasets has posed a significant challenge for medical deep learning training pipelines, often leading to inefficiencies stemming from data I/O bottlenecks. Addressing this issue, we present a simply yet effective trick, lazy loading strategy, leveraging memory-mapping mechanisms to boost training processes. By dynamically loading only the target slices of large medical datasets into active memory, our method minimizes the reading time and conserves memory. This paper mainly aims to remind community to realize the advantages of the lazy loading strategy, which could substantially boost the efficiency of deep learning training process in the medical domain.",
         "authors": "Chenglong Wang, Chengxiu Zhang, Yun Liu, Guang Yang",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.04"
     },
     {
@@ -3488,8 +3488,8 @@
         "title": "Meta-Learning for Segmention of In Situ Hybridization Gene Expression Images",
         "abstract": "Segmentation of biomedical images is often ambiguous and complicated by noise, varying contrasts, and imaging artifacts. We address the challenge of segmenting images of brain tissue in which gene expression has been localized using in situ hybridization. Since gene expression patterns differ widely between genes, it can be difficult to correctly discriminate pixels positive for gene expression. In testing different segmentation networks, we observed that each network had its own trade-offs between sensitivity and precision. To exploit the benefits of all trained networks, we developed a meta-network that learns to combine multiple segmentation maps from diverse segmentation architectures to generate a final segmentation that best matches the ground-truth label. In our experiments, the meta-network outperforms ensembles that simply average segmentation maps.",
         "authors": "Charissa Poon, Michal Byra, Tomomi Shimogori, Henrik Skibbe",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.05"
     },
     {
@@ -3502,8 +3502,8 @@
         "title": "Ultrasound tumor detection using an adapted Mask-RCNN with a continuous objectness score",
         "abstract": "This paper introduces a novel approach for training Mask-RCNN models using a normalized continuous\nobjectness score and corresponding loss function, eliminating the need for binary objectness labels. The\nmethod is evaluated on an ultrasound dataset of breast and colorectal tumors samples, achieving a\nprecision of 0.963, sensitivity of 0.974, specificity of 0.960 and IoU of 0.651, improving the precision\nand specificity with comparable sensitivity and IoU compared to a conventional Mask-RCNN baseline.",
         "authors": "Mark Wijkhuizen, Lennard van Karnenbeek, Freija Geldof, Theo J.M. Ruers, Behdad Dashtbozorg",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.06"
     },
     {
@@ -3516,8 +3516,8 @@
         "title": "An Uncertainty-Distillation- and Voxel-Contrast-based Framework for One-shot Segmentation of Novel White Matter Tracts",
         "abstract": "Diffusion-MRI-based white matter (WM) tract segmentation plays an important role in analyzing WM characteristics in healthy and diseased brains. The uncommon (novel) tract segmentation is important to the success of clinical brain operation and the reduction of postoperative complications. The massive WM tract annotations are time-consuming and need experienced neuroanatomists. Novel tract segmentation using only one annotated scan alleviates the above problems but is challenging.  Existing fine-tuning-based studies achieve promising results but suffer from the feature overlap problem. In the work, we propose an uncertainty-distillation- and voxel-contrast-based one-shot novel WM tract segmentation framework, which includes an uncertainty distillation module to transfer semantic segmentation knowledge from base tracts to novel tracts and a voxel-wise multi-label contrastive module to adjust the feature embedding space so as to alleviate the feature overlap problem. We compare our method with several state-of-the-art (SOTA) methods that are designed to predict novel tract segmentation. The experimental results demonstrate that our method improves the one-shot segmentation accuracy of novel tracts in five experimental settings.",
         "authors": "Hao Xu, Tengfei Xue, Dongnan Liu, Fan Zhang, Carl-fredrik Westin, Ron Ron Kikinis, Lauren Jean O'Donnell, Weidong Cai",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.15"
     },
     {
@@ -3530,8 +3530,8 @@
         "title": "Multi-pathology MRI lesion segmentation in a multi-centre cohort of patients with focal epilepsy: a MELD study",
         "abstract": "Drug-resistant focal epilepsy can be caused by structural lesions for which surgery can be curative if the lesion is found and fully resected. We built a large multi-centre MRI dataset of 1181 patients with focal epilepsy and 1009 healthy controls to train a state-of-the-art nnU-Net model to segment a range of aetiologies on T1w MRI scans. The model was able to detect different aetiological causes of focal epilepsy with a sensitivity of 73\\% in patients and a specificity of 90\\% in controls.",
         "authors": "Mathilde Ripart, MELD consortium, Sophie Adler, Konrad Wagstyl",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.16"
     },
     {
@@ -3544,8 +3544,8 @@
         "title": "A Novel Dataset for Nuclei Segmentation in Melanoma Histopathology",
         "abstract": "The presence of tumor-infiltrating lymphocytes (TILs) in melanoma is associated with decreased recurrence of primary melanoma and increased survival in metastatic melanoma patients treated with immune checkpoint inhibition. Existing nuclei segmentation models performance is low due to the ability of melanocytes to mimic other cell types and due to existing melanoma specific models utilizing older, sub-optimal techniques. In addition, existing models do not provide tissue annotations necessary for determining the localization of TILs whereas this might also hold predictive value. To address this, we created a melanoma specific dataset with nuclei and tissue annotations. In this paper we describe the methodology used to create the dataset. In addition, we provide preliminary baseline benchmarks.",
         "authors": "Mark Schuiveling, Willeke A.M. Blokx, Gerben E. Breimer, Karijn P.M. Suijkerbuijk, Daniel Eek, Mitko Veta",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.07"
     },
     {
@@ -3558,8 +3558,8 @@
         "title": "Segment Anything Model for Instance Segmentation in Kidney Histopathology Images",
         "abstract": "Kidney transplantation offers a significant improvement in the quality of life for individuals\nwith irreversible kidney failure. Early detection of rejection through pathologists\u2019 assessment\nof kidney biopsies is critical to ensure long-term graft survival. Traditional assessment\nmethods rely on semi-quantitative estimations from a pathologist while implementing deep\nlearning models holds promise for providing more accurate measurements. Large annotated\ndatasets, required to train such models, are challenging to obtain for kidney tissue. In this\nstudy, we fine-tune and modify the Segment Anything Model (SAM) to facilitate instance\nsegmentation on whole-slide imaging (WSI) data. Leveraging SAM\u2019s zero-shot capability,\nwe accelerate dataset creation by automatically obtaining annotations which we refine and\nlabel. We demonstrate promising results with limited annotated slides for training. Additionally,\nour approach allows for iterative dataset expansion to enhance model performance\nover time. Code is available at: https://github.com/JurreWeijer/SAM-Nephro.",
         "authors": "Jurre Weijer, Sanne Truijen, Tri Nguyen, Mitko Veta, Nikolas Stathonikos",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.30"
     },
     {
@@ -3572,8 +3572,8 @@
         "title": "Impact of Layer Selection in Histopathology Foundation Models on Downstream Task Performance",
         "abstract": "Self-supervised vision transformer models trained on large histopathology datasets are increasingly used as feature encoders for downstream tasks. However, their final layer might not be optimal for all tasks due to the mismatch between the pre-training and downstream objectives. We investigate the influence of the layer selection in five public, transformer-based histopathology encoders on downstream task performance both on patch- and slide- level. Our results demonstrate that choosing a different layer for feature encoding can lead to performance improvements up to eleven percent depending on the task and the model.",
         "authors": "Witali Aswolinskiy, Martin Paulikat, Christian Aichmueller",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.21"
     },
     {
@@ -3586,8 +3586,8 @@
         "title": "Learning CT Segmentation from Label Masks Only",
         "abstract": "Training segmentation models for CT scans in the absence of input data is a challenging problem. Methods based on generative adversarial networks translate images from other modalities but still require additional data and training. Synthesizing images directly from segmentation masks using heuristics can overcome this limitation. However, capabilities for model generalization remain underexplored for these methods. In this study, we generate synthetic data for liver segmentation using organ labels and prior CT knowledge. Ground truth labels serve as a source of information about global structures and are filled with artificial textures in various settings. Segmentation models trained on synthetic data demonstrate sufficient generalization to real CT data, highlighting a perspective of a simple yet powerful approach to data bootstrapping.",
         "authors": "Artyom Tsanda, Hannes Nickisch, Tobias Wissel, Tobias Klinder, Tobias Knopp, Michael Grass",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.08"
     },
     {
@@ -3600,8 +3600,8 @@
         "title": "Unraveling Systematic Biases in Brain Segmentation: Insights from Synthetic Training",
         "abstract": "This study examines how the quality of ground truth labels affects brain MRI segmentation models. We investigate the potential of synthetic learning to mitigate systematic biases present in training labels. Through a validation on high-quality datasets, in the Putamen region, known for systematic segmentation errors like the inclusion of parts of the Claustrum, we demonstrate the effectiveness of the synthetic data approach in correcting these errors and enhancing segmentation accuracy. \nOur findings highlight the limitations of pseudo-ground truth labels derived from automated techniques and underscores the importance of precise, expert-validated labels for accurate, unbiased validation.",
         "authors": "Romain Valabregue, Ines Khemir, Guillaume Auzias, Fran\u00e7ois Rousseau, Mehdi OUNISSI",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.09"
     },
     {
@@ -3614,8 +3614,8 @@
         "title": "From Generalist to Specialist: Incorporating Domain-Knowledge into Flamingo for Chest X-Ray Report Generation",
         "abstract": "Automating the generation of accurate and reliable radiological reports from chest X-\nray images represents a significant challenge in medical image computing. In this context,\nVision-Language Models (VLMs), particularly the Flamingo architecture which achieves\nstate-of-the-art performance across various vision-language tasks, offers promising solu-\ntions. This study evaluates the effectiveness of OpenFlamingo and its medical adaptation\nMedFlamingo, a version further pre-trained on medical data, in generating radiological\nreports. Our evaluation compares the zero-shot capabilities of OpenFlamingo and Med-\nFlamingo against fine-tuning and training from scratch. Our results demonstrate that\nfine-tuning consistently boosts model performance, with fine-tuned MedFlamingo outper-\nforming its OpenFlamingo counterpart. Moreover, while training Flamingo from scratch\ndoes not match the efficacy of fine-tuning, it nevertheless surpasses zero-shot performance.\nThis study underscores the potential of domain-specific fine-tuning in enhancing automated\nradiological report generation, paving the way for more accurate and efficient diagnostic\nworkflows.",
         "authors": "Raphael Stock, Stefan Denner, Yannick Kirchhoff, Constantin Ulrich, Maximilian Rouven Rokuss, Saikat Roy, Nico Disch, Klaus Maier-Hein",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.31"
     },
     {
@@ -3628,8 +3628,8 @@
         "title": "Spirochetosis detection in colon histopathology images via fine-tuning and boosting techniques using foundation models",
         "abstract": "Spirochetes are bacteria that can be found on the boundaries of colon epithelial tissue, causing several diseases ranging from spirochetosis, inflammatory bowel disease, to cancer. Despite their relevance, spirochetes often remain undetected in histological analysis.\nWe propose the first computational pathology approach to characterize spirochetes, leveraging prior spatial knowledge to detect spirochetes in whole-slide images of colon polyps and biopsies, and differentiate these bacteria as belonging to normal or abnormal tissue.\nWe focus on transfer learning by fine-tuning state-of-the-art computational pathology foundation models and by training an additional XGBoost classifier on downstream tasks.",
         "authors": "Agata Polejowska, Fazael Ayatollahi, Ayse Selcen Oguz Erdogan, Francesco Ciompi, Annemarie Boleij",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.2 - S.27"
     },
     {
@@ -3642,8 +3642,8 @@
         "title": "HyperPredict: Estimating Hyperparameter Effects for Instance-Specific Regularization in Deformable Image Registration",
         "abstract": "Methods for medical image registration infer geometric transformations that align pairs, or groups, of images by maximising an image similarity metric. This problem is ill-posed as several solutions may have equivalent likelihoods, also optimising purely for image similarity can yield implausible deformable transformations. For these reasons regularization terms are essential to obtain meaningful registration results. However, this requires the introduction of at least one hyperparameter, often termed \u03bb, which serves as a trade-off between loss terms. In some approaches and situations, the quality of the estimated transformation greatly depends on hyperparameter choice, and different choices may be required depending on the characteristics of the data. Analyzing the effect of these hyperparameters requires labelled data, which is not commonly available at test-time. In this paper, we propose a novel method for evaluating the influence of hyperparameters and subsequently selecting an optimal value for given pair of images. Our approach, which we call HyperPredict, implements a Multi-Layer Perceptron that learns the effect of selecting particular hyperparameters for registering an image pair by predicting the resulting segmentation overlap and measures of deformation smoothness. This approach enables us to select optimal hyperparameters at test time without requiring labelled data, removing the need for a one-size-fits-all cross-validation approach. Furthermore, the criteria used to define optimal hyperparameter is flexible post-training, allowing us to efficiently choose specific properties (e.g. overlap of specific anatomical regions of interest, smoothness/plausibility of the final displacement field). We evaluate our proposed method on the OASIS brain MR standard benchmark dataset using a recent deep learning approach (cLapIRN) and an algorithmic method (Niftyreg). Our results demonstrate good performance in predicting the effects of regularization hyperparameters and highlight the benefits of our image-pair specific approach to hyperparameter selection.",
         "authors": "Aisha Lawal Shuaibu, Ivor J. A. Simpson",
-        "Time": "Day 3 \u2014 17:00-17:30",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 16:30-17:15",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.1 - M.01",
         "Chairs": "Tal Arbel & Hugues Talbot"
     },
@@ -3657,8 +3657,8 @@
         "title": "HyperPredict: Estimating Hyperparameter Effects for Instance-Specific Regularization in Deformable Image Registration",
         "abstract": "Methods for medical image registration infer geometric transformations that align pairs, or groups, of images by maximising an image similarity metric. This problem is ill-posed as several solutions may have equivalent likelihoods, also optimising purely for image similarity can yield implausible deformable transformations. For these reasons regularization terms are essential to obtain meaningful registration results. However, this requires the introduction of at least one hyperparameter, often termed \u03bb, which serves as a trade-off between loss terms. In some approaches and situations, the quality of the estimated transformation greatly depends on hyperparameter choice, and different choices may be required depending on the characteristics of the data. Analyzing the effect of these hyperparameters requires labelled data, which is not commonly available at test-time. In this paper, we propose a novel method for evaluating the influence of hyperparameters and subsequently selecting an optimal value for given pair of images. Our approach, which we call HyperPredict, implements a Multi-Layer Perceptron that learns the effect of selecting particular hyperparameters for registering an image pair by predicting the resulting segmentation overlap and measures of deformation smoothness. This approach enables us to select optimal hyperparameters at test time without requiring labelled data, removing the need for a one-size-fits-all cross-validation approach. Furthermore, the criteria used to define optimal hyperparameter is flexible post-training, allowing us to efficiently choose specific properties (e.g. overlap of specific anatomical regions of interest, smoothness/plausibility of the final displacement field). We evaluate our proposed method on the OASIS brain MR standard benchmark dataset using a recent deep learning approach (cLapIRN) and an algorithmic method (Niftyreg). Our results demonstrate good performance in predicting the effects of regularization hyperparameters and highlight the benefits of our image-pair specific approach to hyperparameter selection.",
         "authors": "Aisha Lawal Shuaibu, Ivor J. A. Simpson",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.1 - M.01"
     },
     {
@@ -3671,8 +3671,8 @@
         "title": "Leveraging SO(3)-steerable convolutions for pose-robust semantic segmentation in 3D medical data",
         "abstract": "Convolutional neural networks (CNNs) allow for parameter sharing and translational equivariance by using convolutional kernels in their linear layers. By restricting these kernels to be SO(3)-steerable, CNNs can further improve parameter sharing and equivariance. These equivariant convolutional layers have several advantages over standard convolutional layers, including increased robustness to unseen poses, smaller network size, and improved sample efficiency. Despite this, most segmentation networks used in medical image analysis continue to rely on standard convolutional kernels. In this paper, we present a new family of segmentation networks that use equivariant voxel convolutions based on spherical harmonics. These SE(3)-equivariant volumetric segmentation networks, which are robust to data poses not seen during training, do not require rotation-based data augmentation during training. In addition, we demonstrate improved segmentation performance in MRI brain tumor and healthy brain structure segmentation tasks, with enhanced robustness to reduced amounts of training data and improved parameter efficiency. Code to reproduce our results, and to implement the equivariant segmentation networks for other tasks is available at http://github.com/SCAN-NRAD/e3nn_Unet.",
         "authors": "Ivan Diaz, Mario Geiger, Richard Iain McKinley",
-        "Time": "Day 3 \u2014 17:00-17:30",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 16:30-17:15",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.1 - M.02",
         "Chairs": "Tal Arbel & Hugues Talbot"
     },
@@ -3686,8 +3686,8 @@
         "title": "Leveraging SO(3)-steerable convolutions for pose-robust semantic segmentation in 3D medical data",
         "abstract": "Convolutional neural networks (CNNs) allow for parameter sharing and translational equivariance by using convolutional kernels in their linear layers. By restricting these kernels to be SO(3)-steerable, CNNs can further improve parameter sharing and equivariance. These equivariant convolutional layers have several advantages over standard convolutional layers, including increased robustness to unseen poses, smaller network size, and improved sample efficiency. Despite this, most segmentation networks used in medical image analysis continue to rely on standard convolutional kernels. In this paper, we present a new family of segmentation networks that use equivariant voxel convolutions based on spherical harmonics. These SE(3)-equivariant volumetric segmentation networks, which are robust to data poses not seen during training, do not require rotation-based data augmentation during training. In addition, we demonstrate improved segmentation performance in MRI brain tumor and healthy brain structure segmentation tasks, with enhanced robustness to reduced amounts of training data and improved parameter efficiency. Code to reproduce our results, and to implement the equivariant segmentation networks for other tasks is available at http://github.com/SCAN-NRAD/e3nn_Unet.",
         "authors": "Ivan Diaz, Mario Geiger, Richard Iain McKinley",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.1 - M.02"
     },
     {
@@ -3700,8 +3700,8 @@
         "title": "Score-Based Generative Models for PET Image Reconstruction",
         "abstract": "Score-based generative models have demonstrated highly promising results for medical image reconstruction tasks in magnetic resonance imaging or computed tomography. However, their application to Positron Emission Tomography (PET) is still largely unexplored. PET image reconstruction involves a variety of challenges, including Poisson noise with high variance and a wide dynamic range. To address these challenges, we propose several PET-specific adaptations of score-based generative models. The proposed framework is developed for both 2D and 3D PET. In addition, we provide an extension to guided reconstruction using magnetic resonance images. We validate the approach through extensive 2D and 3D in-silico experiments with a model trained on patient-realistic data without lesions, and evaluate on data without lesions as well as out-of-distribution data with lesions. This demonstrates the proposed method\u2019s robustness and significant potential for improved PET reconstruction.",
         "authors": "Imraj RD Singh, Alexander Denker, Riccardo Barbano, \u017deljko Kereta, Bangti Jin, Kris Thielemans, Peter Maass, Simon Arridge",
-        "Time": "Day 3 \u2014 17:00-17:30",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 16:30-17:15",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.1 - M.03",
         "Chairs": "Tal Arbel & Hugues Talbot"
     },
@@ -3715,8 +3715,8 @@
         "title": "Score-Based Generative Models for PET Image Reconstruction",
         "abstract": "Score-based generative models have demonstrated highly promising results for medical image reconstruction tasks in magnetic resonance imaging or computed tomography. However, their application to Positron Emission Tomography (PET) is still largely unexplored. PET image reconstruction involves a variety of challenges, including Poisson noise with high variance and a wide dynamic range. To address these challenges, we propose several PET-specific adaptations of score-based generative models. The proposed framework is developed for both 2D and 3D PET. In addition, we provide an extension to guided reconstruction using magnetic resonance images. We validate the approach through extensive 2D and 3D in-silico experiments with a model trained on patient-realistic data without lesions, and evaluate on data without lesions as well as out-of-distribution data with lesions. This demonstrates the proposed method\u2019s robustness and significant potential for improved PET reconstruction.",
         "authors": "Imraj RD Singh, Alexander Denker, Riccardo Barbano, \u017deljko Kereta, Bangti Jin, Kris Thielemans, Peter Maass, Simon Arridge",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.1 - M.03"
     },
     {
@@ -3729,8 +3729,8 @@
         "title": "Are we using appropriate segmentation metrics? Identifying correlates of human expert perception for CNN training beyond rolling the DICE coefficient",
         "abstract": "Metrics optimized in complex machine learning tasks are often selected in an ad-hoc manner. It is unknown how they align with human expert perception. We explore the correlations between established quantitative segmentation quality metrics and qualitative evaluations by professionally trained human raters. Therefore, we conduct psychophysical experiments for two complex biomedical semantic segmentation problems. We discover that current standard metrics and loss functions correlate only moderately with the segmentation quality assessment of experts. Importantly, this effect is particularly pronounced for clinically relevant structures, such as the enhancing tumor compartment of glioma in brain magnetic resonance and grey matter in ultrasound imaging. It is often unclear how to optimize abstract metrics, such as human expert perception, in convolutional neural network (CNN) training. To cope with this challenge, we propose a novel strategy employing techniques of classical statistics to create complementary compound loss functions to better approximate human expert perception. Across all rating experiments, human experts consistently scored computer-generated segmentations better than the human-curated reference labels. Our results, therefore, strongly question many current practices in medical image segmentation and provide meaningful cues for future research.",
         "authors": "Florian Kofler, Ivan Ezhov, Fabian Isensee, Fabian Balsiger, Christoph Berger, Maximilian Koerner, Beatrice Demiray, Julia Rackerseder, Johannes Paetzold, Hongwei Li, Suprosanna Shit, Richard McKinley, Marie Piraud, Spyridon Bakas, Claus Zimmer, Nassir Navab, Jan Kirschke, Benedikt Wiestler, Bjoern Menze",
-        "Time": "Day 3 \u2014 15:45-16:45",
-        "Poster time": "Day 3 \u2014 15:45-16:45",
+        "Time": "Day 3 \u2014 15:30-16:30",
+        "Poster time": "Day 3 \u2014 15:30-16:30",
         "Poster ID": "Poster 3.1 - M.04"
     }
 ]
