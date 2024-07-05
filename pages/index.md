@@ -13,7 +13,7 @@ page_class: home
 <div class="youtube">
   <iframe width="720"
           height="405"
-          src="https://www.youtube.com/embed/Co9yUIAw6H0"
+          src="https://www.youtube.com/embed/-mV53dZZs9o"
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
@@ -21,6 +21,7 @@ page_class: home
 
 <p class="button">
   <a href="https://youtu.be/27FOGfwgCL8/" target="_blank">Day 1</a>
+  <a href="https://youtu.be/Co9yUIAw6H0/" target="_blank">Day 2</a>
 </p>
 
 {{ newsletter("2024.midl.io", inline=False) }}
