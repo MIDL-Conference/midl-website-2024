@@ -20,8 +20,8 @@ page_class: home
 </div>
 
 <p class="button">
-  <a href="https://youtu.be/27FOGfwgCL8/" target="_blank">Day 1</a>
-  <a href="https://youtu.be/Co9yUIAw6H0/" target="_blank">Day 2</a>
+  <a href="https://www.youtube.com/watch?v=27FOGfwgCL8/" target="_blank">Day 1</a>
+  <a href="https://www.youtube.com/watch?v=Co9yUIAw6H0/" target="_blank">Day 2</a>
 </p>
 
 {{ newsletter("2024.midl.io", inline=False) }}
