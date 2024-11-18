@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e926aacd-542e-465c-87c5-e6df372e00b6/deploy-status)](https://app.netlify.com/sites/midl-2023-fe2b05/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c6864d47-ec94-4ef2-8ef8-ba0a43b451c5/deploy-status)](https://app.netlify.com/sites/midl-2024-04781e/deploys)
 
 # MIDL 2024 (Paris) website
 
