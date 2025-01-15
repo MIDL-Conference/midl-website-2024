@@ -22,6 +22,7 @@ page_class: home
 <p class="button">
   <a href="https://www.youtube.com/watch?v=27FOGfwgCL8/" target="_blank">Day 1</a>
   <a href="https://www.youtube.com/watch?v=Co9yUIAw6H0/" target="_blank">Day 2</a>
+    <a href="https://proceedings.mlr.press/v250/" target="_blank">Proceedings</a>
 </p>
 
 {{ newsletter("2024.midl.io", inline=False) }}
